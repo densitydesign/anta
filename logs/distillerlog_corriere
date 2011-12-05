@@ -1,0 +1,11 @@
+
+2011-11-23 14:35:04	process id closed, routine terminated
+2011-11-23 14:35:04	error: 'distiller_corriere.pid' not found. Unable to search for a process-id
+2011-11-23 14:36:10	process id closed, routine terminated
+2011-11-23 14:36:10	starting or restarting analysis routine as requested
+--
+2011-11-23 14:36:10
+user: admin, pid: 10085, elapsed: 0.018433094024658
+2011-11-23 14:36:10	writing pid=10085 into 'distiller_corriere.pid'
+2011-11-23 14:36:10	creating file... 'distiller_corriere.pid'
+2011-11-23 14:36:10	success!... 'distiller_corriere.pid' created

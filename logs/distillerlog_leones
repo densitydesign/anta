@@ -1,0 +1,2314 @@
+
+2011-12-05 17:29:20	process id closed, routine terminated
+2011-12-05 17:29:20	starting or restarting analysis routine as requested
+--
+2011-12-05 17:29:21
+user: admin, pid: 7843, elapsed: 0.020364046096802
+2011-12-05 17:29:21	writing pid=7843 into 'distiller_leones.pid'
+2011-12-05 17:29:21	creating file... 'distiller_leones.pid'
+2011-12-05 17:29:21	success!... 'distiller_leones.pid' created
+2011-12-05 17:29:21	doc #280389, title:'Uno squillante diario di viaggio'
+2011-12-05 17:29:21	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:29:21	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:29:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:29:22	sentences stored into database: 0
+2011-12-05 17:29:22	no sentences saved into database, then chunk...
+2011-12-05 17:29:22	! exception:uploads is not writable
+2011-12-05 17:29:22	saved pid: 7843, actual pid: 7843, elapsed: 1.146754026413
+2011-12-05 17:29:22	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:29:22	memory peak: 8126464
+errors: []
+elapsed: 1.1420199871063
+--
+2011-12-05 17:29:25	process id closed, routine terminated
+2011-12-05 17:29:25	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:29:31	process id closed, routine terminated
+2011-12-05 17:29:31	starting or restarting analysis routine as requested
+--
+2011-12-05 17:29:31
+user: admin, pid: 7862, elapsed: 0.02171516418457
+2011-12-05 17:29:31	writing pid=7862 into 'distiller_leones.pid'
+2011-12-05 17:29:31	creating file... 'distiller_leones.pid'
+2011-12-05 17:29:31	success!... 'distiller_leones.pid' created
+2011-12-05 17:29:31	doc #280390, title:'E' il momento di emergere'
+2011-12-05 17:29:31	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:29:31	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:29:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:29:32	sentences stored into database: 0
+2011-12-05 17:29:32	no sentences saved into database, then chunk...
+2011-12-05 17:29:32	! exception:uploads is not writable
+2011-12-05 17:29:32	saved pid: 7862, actual pid: 7862, elapsed: 1.1953890323639
+2011-12-05 17:29:32	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:29:32	memory peak: 8126464
+errors: []
+elapsed: 1.1917979717255
+--
+2011-12-05 17:29:35	process id closed, routine terminated
+2011-12-05 17:29:35	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:29:58	process id closed, routine terminated
+2011-12-05 17:29:58	starting or restarting analysis routine as requested
+--
+2011-12-05 17:29:59
+user: admin, pid: 7929, elapsed: 0.023000955581665
+2011-12-05 17:29:59	writing pid=7929 into 'distiller_leones.pid'
+2011-12-05 17:29:59	creating file... 'distiller_leones.pid'
+2011-12-05 17:29:59	success!... 'distiller_leones.pid' created
+2011-12-05 17:29:59	doc #280391, title:'Film da contemplazione'
+2011-12-05 17:29:59	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:29:59	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:30:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:30:00	sentences stored into database: 0
+2011-12-05 17:30:00	no sentences saved into database, then chunk...
+2011-12-05 17:30:00	! exception:uploads is not writable
+2011-12-05 17:30:00	saved pid: 7929, actual pid: 7929, elapsed: 1.1294960975647
+2011-12-05 17:30:00	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:30:00	memory peak: 8126464
+errors: []
+elapsed: 1.1247389316559
+--
+2011-12-05 17:30:05	process id closed, routine terminated
+2011-12-05 17:30:05	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:30:11	process id closed, routine terminated
+2011-12-05 17:30:11	starting or restarting analysis routine as requested
+--
+2011-12-05 17:30:11
+user: admin, pid: 7950, elapsed: 0.016204118728638
+2011-12-05 17:30:11	writing pid=7950 into 'distiller_leones.pid'
+2011-12-05 17:30:11	creating file... 'distiller_leones.pid'
+2011-12-05 17:30:11	success!... 'distiller_leones.pid' created
+2011-12-05 17:30:11	process id closed, routine terminated
+2011-12-05 17:30:11	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:30:12	doc #280392, title:'Autodromo in panne'
+2011-12-05 17:30:12	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:30:12	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:30:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:30:13	sentences stored into database: 0
+2011-12-05 17:30:13	no sentences saved into database, then chunk...
+2011-12-05 17:30:13	! exception:uploads is not writable
+2011-12-05 17:30:13	saved pid: 7950, actual pid: 7950, elapsed: 1.2591691017151
+2011-12-05 17:30:13	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:30:13	memory peak: 8126464
+errors: []
+elapsed: 1.2555539608002
+--
+2011-12-05 17:30:23	process id closed, routine terminated
+2011-12-05 17:30:23	starting or restarting analysis routine as requested
+--
+2011-12-05 17:30:23
+user: admin, pid: 7976, elapsed: 0.014714956283569
+2011-12-05 17:30:23	writing pid=7976 into 'distiller_leones.pid'
+2011-12-05 17:30:23	creating file... 'distiller_leones.pid'
+2011-12-05 17:30:23	success!... 'distiller_leones.pid' created
+2011-12-05 17:30:24	doc #280393, title:'Lite tra cognati morti entrambi'
+2011-12-05 17:30:24	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:30:24	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:30:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:30:24	sentences stored into database: 0
+2011-12-05 17:30:24	no sentences saved into database, then chunk...
+2011-12-05 17:30:24	! exception:uploads is not writable
+2011-12-05 17:30:24	saved pid: 7976, actual pid: 7976, elapsed: 1.3053529262543
+2011-12-05 17:30:24	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:30:24	memory peak: 8126464
+errors: []
+elapsed: 1.3036549091339
+--
+2011-12-05 17:30:29	process id closed, routine terminated
+2011-12-05 17:30:29	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:33:47	process id closed, routine terminated
+2011-12-05 17:33:47	starting or restarting analysis routine as requested
+--
+2011-12-05 17:33:47
+user: admin, pid: 8155, elapsed: 0.011774063110352
+2011-12-05 17:33:47	writing pid=8155 into 'distiller_leones.pid'
+2011-12-05 17:33:47	creating file... 'distiller_leones.pid'
+2011-12-05 17:33:47	success!... 'distiller_leones.pid' created
+2011-12-05 17:33:48	doc #280394, title:'verdi, dolci e croccanti'
+2011-12-05 17:33:48	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:33:48	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:33:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:33:49	sentences stored into database: 0
+2011-12-05 17:33:49	no sentences saved into database, then chunk...
+2011-12-05 17:33:49	! exception:uploads is not writable
+2011-12-05 17:33:49	saved pid: 8155, actual pid: 8155, elapsed: 1.2453751564026
+2011-12-05 17:33:49	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:33:49	memory peak: 8126464
+errors: []
+elapsed: 1.2442741394043
+--
+2011-12-05 17:34:14	process id closed, routine terminated
+2011-12-05 17:34:14	starting or restarting analysis routine as requested
+--
+2011-12-05 17:34:14
+user: admin, pid: 9252, elapsed: 0.015948057174683
+2011-12-05 17:34:14	writing pid=9252 into 'distiller_leones.pid'
+2011-12-05 17:34:14	creating file... 'distiller_leones.pid'
+2011-12-05 17:34:14	success!... 'distiller_leones.pid' created
+2011-12-05 17:34:14	process id closed, routine terminated
+2011-12-05 17:34:14	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:34:15	doc #280395, title:'Callieri: errore commissariare Publitalia'
+2011-12-05 17:34:15	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:34:15	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:34:16	daily request with Alchemy: 0/ 29900
+2011-12-05 17:34:16	sentences stored into database: 0
+2011-12-05 17:34:16	no sentences saved into database, then chunk...
+2011-12-05 17:34:16	! exception:uploads is not writable
+2011-12-05 17:34:16	saved pid: 9252, actual pid: 9252, elapsed: 1.3301219940186
+2011-12-05 17:34:16	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:34:16	memory peak: 8126464
+errors: []
+elapsed: 1.3279929161072
+--
+2011-12-05 17:34:24	process id closed, routine terminated
+2011-12-05 17:34:24	starting or restarting analysis routine as requested
+--
+2011-12-05 17:34:24
+user: admin, pid: 9271, elapsed: 0.01503586769104
+2011-12-05 17:34:24	writing pid=9271 into 'distiller_leones.pid'
+2011-12-05 17:34:24	creating file... 'distiller_leones.pid'
+2011-12-05 17:34:24	success!... 'distiller_leones.pid' created
+2011-12-05 17:34:25	doc #280396, title:'Addio Eden dei frontalieri'
+2011-12-05 17:34:25	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:34:25	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:34:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:34:26	sentences stored into database: 0
+2011-12-05 17:34:26	no sentences saved into database, then chunk...
+2011-12-05 17:34:26	! exception:uploads is not writable
+2011-12-05 17:34:26	saved pid: 9271, actual pid: 9271, elapsed: 1.1656258106232
+2011-12-05 17:34:26	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:34:26	memory peak: 8126464
+errors: []
+elapsed: 1.1481719017029
+--
+2011-12-05 17:34:29	process id closed, routine terminated
+2011-12-05 17:34:29	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:37:21	process id closed, routine terminated
+2011-12-05 17:37:21	starting or restarting analysis routine as requested
+--
+2011-12-05 17:37:21
+user: admin, pid: 9543, elapsed: 0.01758599281311
+2011-12-05 17:37:21	writing pid=9543 into 'distiller_leones.pid'
+2011-12-05 17:37:21	creating file... 'distiller_leones.pid'
+2011-12-05 17:37:21	success!... 'distiller_leones.pid' created
+2011-12-05 17:37:22	doc #280397, title:'I REFERENDUM SENZA EQUITA''
+2011-12-05 17:37:22	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:37:22	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:37:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:37:22	sentences stored into database: 0
+2011-12-05 17:37:22	no sentences saved into database, then chunk...
+2011-12-05 17:37:22	! exception:uploads is not writable
+2011-12-05 17:37:22	saved pid: 9543, actual pid: 9543, elapsed: 1.1234331130981
+2011-12-05 17:37:22	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:37:22	memory peak: 8126464
+errors: []
+elapsed: 1.1222670078278
+--
+2011-12-05 17:40:33	process id closed, routine terminated
+2011-12-05 17:40:33	starting or restarting analysis routine as requested
+--
+2011-12-05 17:40:33
+user: admin, pid: 10073, elapsed: 0.013637065887451
+2011-12-05 17:40:33	writing pid=10073 into 'distiller_leones.pid'
+2011-12-05 17:40:33	creating file... 'distiller_leones.pid'
+2011-12-05 17:40:33	success!... 'distiller_leones.pid' created
+2011-12-05 17:40:34	doc #280398, title:'Laterza: esordio nella narrativa'
+2011-12-05 17:40:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:35	sentences stored into database: 0
+2011-12-05 17:40:35	no sentences saved into database, then chunk...
+2011-12-05 17:40:35	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005901.txt
+2011-12-05 17:40:35	status: notfound, changed: 1
+2011-12-05 17:40:35	extracted 0 sentences
+2011-12-05 17:40:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:35	status: indexed, changed: 1
+2011-12-05 17:40:37	doc #280399, title:'Parigi come Milano? Corrotta si' ma almeno funziona'
+2011-12-05 17:40:37	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:37	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:38	sentences stored into database: 0
+2011-12-05 17:40:38	no sentences saved into database, then chunk...
+2011-12-05 17:40:38	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005902.txt
+2011-12-05 17:40:38	status: notfound, changed: 1
+2011-12-05 17:40:38	extracted 0 sentences
+2011-12-05 17:40:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:39	status: indexed, changed: 1
+2011-12-05 17:40:41	doc #280400, title:'Generali e Lazard, grandi manovre. Trieste fa acquisti in Francia. Parigi cresce nel capitale del Leone ?'
+2011-12-05 17:40:41	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:41	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:42	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:42	sentences stored into database: 0
+2011-12-05 17:40:42	no sentences saved into database, then chunk...
+2011-12-05 17:40:42	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005903.txt
+2011-12-05 17:40:42	status: notfound, changed: 1
+2011-12-05 17:40:42	extracted 0 sentences
+2011-12-05 17:40:42	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:42	status: indexed, changed: 1
+2011-12-05 17:40:45	doc #280401, title:'Un malato di Aids stupra tredicenne'
+2011-12-05 17:40:45	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:45	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:46	sentences stored into database: 0
+2011-12-05 17:40:46	no sentences saved into database, then chunk...
+2011-12-05 17:40:46	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005904.txt
+2011-12-05 17:40:46	status: notfound, changed: 1
+2011-12-05 17:40:46	extracted 0 sentences
+2011-12-05 17:40:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:46	status: indexed, changed: 1
+2011-12-05 17:40:48	doc #280402, title:'La Nato: " Nessun ritiro, ci rafforziamo "'
+2011-12-05 17:40:48	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:48	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:49	sentences stored into database: 0
+2011-12-05 17:40:49	no sentences saved into database, then chunk...
+2011-12-05 17:40:49	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005905.txt
+2011-12-05 17:40:49	status: notfound, changed: 1
+2011-12-05 17:40:49	extracted 0 sentences
+2011-12-05 17:40:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:49	status: indexed, changed: 1
+2011-12-05 17:40:52	doc #280403, title:'Premafin (Ligresti) diminuisce le perdite'
+2011-12-05 17:40:52	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:52	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:52	sentences stored into database: 0
+2011-12-05 17:40:52	no sentences saved into database, then chunk...
+2011-12-05 17:40:52	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005906.txt
+2011-12-05 17:40:52	status: notfound, changed: 1
+2011-12-05 17:40:52	extracted 0 sentences
+2011-12-05 17:40:53	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:53	status: indexed, changed: 1
+2011-12-05 17:40:54	doc #280404, title:'Incatenata da due anni in una baracca. Il padre: e' indemoniata'
+2011-12-05 17:40:54	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:54	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:55	sentences stored into database: 0
+2011-12-05 17:40:55	no sentences saved into database, then chunk...
+2011-12-05 17:40:55	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005907.txt
+2011-12-05 17:40:55	status: notfound, changed: 1
+2011-12-05 17:40:55	extracted 0 sentences
+2011-12-05 17:40:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:55	status: indexed, changed: 1
+2011-12-05 17:40:58	doc #280405, title:'Spot, Fininvest rischia l' oscuramento'
+2011-12-05 17:40:58	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:40:58	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:40:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:58	sentences stored into database: 0
+2011-12-05 17:40:58	no sentences saved into database, then chunk...
+2011-12-05 17:40:58	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005908.txt
+2011-12-05 17:40:58	status: notfound, changed: 1
+2011-12-05 17:40:58	extracted 0 sentences
+2011-12-05 17:40:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:40:58	status: indexed, changed: 1
+2011-12-05 17:41:01	doc #280406, title:'E il poeta si salvo' per la STRADA SBAGLIATA'
+2011-12-05 17:41:01	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:01	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:01	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:01	sentences stored into database: 0
+2011-12-05 17:41:01	no sentences saved into database, then chunk...
+2011-12-05 17:41:01	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005909.txt
+2011-12-05 17:41:01	status: notfound, changed: 1
+2011-12-05 17:41:01	extracted 0 sentences
+2011-12-05 17:41:02	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:02	status: indexed, changed: 1
+2011-12-05 17:41:05	doc #280407, title:'Rose: " Ci vuole fermezza "'
+2011-12-05 17:41:05	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:05	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:05	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:05	sentences stored into database: 0
+2011-12-05 17:41:05	no sentences saved into database, then chunk...
+2011-12-05 17:41:05	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005910.txt
+2011-12-05 17:41:05	status: notfound, changed: 1
+2011-12-05 17:41:05	extracted 0 sentences
+2011-12-05 17:41:06	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:06	status: indexed, changed: 1
+2011-12-05 17:41:08	doc #280408, title:'La nuova instabilita' politica da' linfa al governo dei tecnici'
+2011-12-05 17:41:08	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:08	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:08	sentences stored into database: 0
+2011-12-05 17:41:08	no sentences saved into database, then chunk...
+2011-12-05 17:41:08	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005911.txt
+2011-12-05 17:41:08	status: notfound, changed: 1
+2011-12-05 17:41:08	extracted 0 sentences
+2011-12-05 17:41:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:08	status: indexed, changed: 1
+2011-12-05 17:41:11	doc #280409, title:'Bosnia, scatta l' operazione soccorso'
+2011-12-05 17:41:11	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:11	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:11	sentences stored into database: 0
+2011-12-05 17:41:11	no sentences saved into database, then chunk...
+2011-12-05 17:41:11	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005912.txt
+2011-12-05 17:41:11	status: notfound, changed: 1
+2011-12-05 17:41:11	extracted 0 sentences
+2011-12-05 17:41:12	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:12	status: indexed, changed: 1
+2011-12-05 17:41:14	doc #280410, title:'Scalfaro e Sartori battezzano Telema'
+2011-12-05 17:41:14	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:14	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:14	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:14	sentences stored into database: 0
+2011-12-05 17:41:14	no sentences saved into database, then chunk...
+2011-12-05 17:41:14	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005913.txt
+2011-12-05 17:41:14	status: notfound, changed: 1
+2011-12-05 17:41:14	extracted 0 sentences
+2011-12-05 17:41:15	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:15	status: indexed, changed: 1
+2011-12-05 17:41:17	doc #280411, title:'Si ribalta in auto il presidente Bmw'
+2011-12-05 17:41:17	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:17	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:17	sentences stored into database: 0
+2011-12-05 17:41:17	no sentences saved into database, then chunk...
+2011-12-05 17:41:17	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005914.txt
+2011-12-05 17:41:17	status: notfound, changed: 1
+2011-12-05 17:41:17	extracted 0 sentences
+2011-12-05 17:41:18	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:18	status: indexed, changed: 1
+2011-12-05 17:41:20	doc #280412, title:'Il Popolo spara su Romano: ripeschera' De Mita'
+2011-12-05 17:41:20	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:20	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:21	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:21	sentences stored into database: 0
+2011-12-05 17:41:21	no sentences saved into database, then chunk...
+2011-12-05 17:41:21	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005915.txt
+2011-12-05 17:41:21	status: notfound, changed: 1
+2011-12-05 17:41:21	extracted 0 sentences
+2011-12-05 17:41:21	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:21	status: indexed, changed: 1
+2011-12-05 17:41:24	doc #280413, title:'Casini: Umberto vuole la proporzionale? Potrebbe andare la legge per le regionali'
+2011-12-05 17:41:24	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:24	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:24	sentences stored into database: 0
+2011-12-05 17:41:24	no sentences saved into database, then chunk...
+2011-12-05 17:41:24	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005916.txt
+2011-12-05 17:41:24	status: notfound, changed: 1
+2011-12-05 17:41:24	extracted 0 sentences
+2011-12-05 17:41:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:24	status: indexed, changed: 1
+2011-12-05 17:41:26	doc #280414, title:'Azzurri smarriti, salta il congresso'
+2011-12-05 17:41:26	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:26	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:27	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:27	sentences stored into database: 0
+2011-12-05 17:41:27	no sentences saved into database, then chunk...
+2011-12-05 17:41:27	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005917.txt
+2011-12-05 17:41:27	status: notfound, changed: 1
+2011-12-05 17:41:27	extracted 0 sentences
+2011-12-05 17:41:27	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:27	status: indexed, changed: 1
+2011-12-05 17:41:29	doc #280415, title:'Ci fanno andare nel pallone'
+2011-12-05 17:41:29	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:29	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:30	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:30	sentences stored into database: 0
+2011-12-05 17:41:30	no sentences saved into database, then chunk...
+2011-12-05 17:41:30	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005918.txt
+2011-12-05 17:41:30	status: notfound, changed: 1
+2011-12-05 17:41:30	extracted 0 sentences
+2011-12-05 17:41:30	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:30	status: indexed, changed: 1
+2011-12-05 17:41:32	doc #280416, title:'Violante: commissariando si tutelano i lavoratori'
+2011-12-05 17:41:32	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:32	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:32	sentences stored into database: 0
+2011-12-05 17:41:32	no sentences saved into database, then chunk...
+2011-12-05 17:41:32	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005919.txt
+2011-12-05 17:41:32	status: notfound, changed: 1
+2011-12-05 17:41:32	extracted 0 sentences
+2011-12-05 17:41:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:32	status: indexed, changed: 1
+2011-12-05 17:41:34	doc #280417, title:'Sbaglia valigia, in cella'
+2011-12-05 17:41:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:35	sentences stored into database: 0
+2011-12-05 17:41:35	no sentences saved into database, then chunk...
+2011-12-05 17:41:35	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005920.txt
+2011-12-05 17:41:35	status: notfound, changed: 1
+2011-12-05 17:41:35	extracted 0 sentences
+2011-12-05 17:41:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:35	status: indexed, changed: 1
+2011-12-05 17:41:37	doc #280418, title:'Avvocati, Procure all' attacco'
+2011-12-05 17:41:37	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:37	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:38	sentences stored into database: 0
+2011-12-05 17:41:38	no sentences saved into database, then chunk...
+2011-12-05 17:41:38	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005921.txt
+2011-12-05 17:41:38	status: notfound, changed: 1
+2011-12-05 17:41:38	extracted 0 sentences
+2011-12-05 17:41:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:39	status: indexed, changed: 1
+2011-12-05 17:41:40	doc #280419, title:'Bertoni: o il governo lo frena o Mancuso se ne deve andare'
+2011-12-05 17:41:40	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:40	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:41	sentences stored into database: 0
+2011-12-05 17:41:41	no sentences saved into database, then chunk...
+2011-12-05 17:41:41	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005922.txt
+2011-12-05 17:41:41	status: notfound, changed: 1
+2011-12-05 17:41:41	extracted 0 sentences
+2011-12-05 17:41:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:41	status: indexed, changed: 1
+2011-12-05 17:41:43	doc #280420, title:'Catturato in Sudan un medico italiano'
+2011-12-05 17:41:43	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:43	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:44	sentences stored into database: 0
+2011-12-05 17:41:44	no sentences saved into database, then chunk...
+2011-12-05 17:41:44	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005923.txt
+2011-12-05 17:41:44	status: notfound, changed: 1
+2011-12-05 17:41:44	extracted 0 sentences
+2011-12-05 17:41:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:44	status: indexed, changed: 1
+2011-12-05 17:41:46	doc #280421, title:'Dini: cosi' risaneremo i conti pubblici'
+2011-12-05 17:41:46	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:46	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:46	sentences stored into database: 0
+2011-12-05 17:41:46	no sentences saved into database, then chunk...
+2011-12-05 17:41:46	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005924.txt
+2011-12-05 17:41:46	status: notfound, changed: 1
+2011-12-05 17:41:46	extracted 0 sentences
+2011-12-05 17:41:47	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:47	status: indexed, changed: 1
+2011-12-05 17:41:49	doc #280422, title:'Berlusconi e la Finanza, ecco i verbali'
+2011-12-05 17:41:49	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:49	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:49	sentences stored into database: 0
+2011-12-05 17:41:49	no sentences saved into database, then chunk...
+2011-12-05 17:41:49	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005925.txt
+2011-12-05 17:41:49	status: notfound, changed: 1
+2011-12-05 17:41:49	extracted 0 sentences
+2011-12-05 17:41:50	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:50	status: indexed, changed: 1
+2011-12-05 17:41:51	doc #280423, title:'Ma nelle aziende di Como adesso si assume'
+2011-12-05 17:41:51	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:51	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:52	sentences stored into database: 0
+2011-12-05 17:41:52	no sentences saved into database, then chunk...
+2011-12-05 17:41:52	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005926.txt
+2011-12-05 17:41:52	status: notfound, changed: 1
+2011-12-05 17:41:52	extracted 0 sentences
+2011-12-05 17:41:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:52	status: indexed, changed: 1
+2011-12-05 17:41:55	doc #280424, title:'Anche lo spettacolo aiuta'
+2011-12-05 17:41:55	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:55	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:55	sentences stored into database: 0
+2011-12-05 17:41:55	no sentences saved into database, then chunk...
+2011-12-05 17:41:55	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005927.txt
+2011-12-05 17:41:55	status: notfound, changed: 1
+2011-12-05 17:41:55	extracted 0 sentences
+2011-12-05 17:41:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:55	status: indexed, changed: 1
+2011-12-05 17:41:57	doc #280425, title:'Bosnia, sbarcati i rinforzi inglesi'
+2011-12-05 17:41:57	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:41:57	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:41:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:58	sentences stored into database: 0
+2011-12-05 17:41:58	no sentences saved into database, then chunk...
+2011-12-05 17:41:58	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005928.txt
+2011-12-05 17:41:58	status: notfound, changed: 1
+2011-12-05 17:41:58	extracted 0 sentences
+2011-12-05 17:41:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:41:58	status: indexed, changed: 1
+2011-12-05 17:42:00	doc #280426, title:'Le stelle del Bolscioi alle terme di Sirmione'
+2011-12-05 17:42:00	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:00	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:01	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:01	sentences stored into database: 0
+2011-12-05 17:42:01	no sentences saved into database, then chunk...
+2011-12-05 17:42:01	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005929.txt
+2011-12-05 17:42:01	status: notfound, changed: 1
+2011-12-05 17:42:01	extracted 0 sentences
+2011-12-05 17:42:01	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:01	status: indexed, changed: 1
+2011-12-05 17:42:03	doc #280427, title:'Fotografi scattate un progetto'
+2011-12-05 17:42:03	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:03	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:03	sentences stored into database: 0
+2011-12-05 17:42:03	no sentences saved into database, then chunk...
+2011-12-05 17:42:03	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005930.txt
+2011-12-05 17:42:03	status: notfound, changed: 1
+2011-12-05 17:42:03	extracted 0 sentences
+2011-12-05 17:42:04	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:04	status: indexed, changed: 1
+2011-12-05 17:42:07	doc #280428, title:'Stregato da Flo'
+2011-12-05 17:42:07	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:07	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:07	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:07	sentences stored into database: 0
+2011-12-05 17:42:07	no sentences saved into database, then chunk...
+2011-12-05 17:42:07	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005931.txt
+2011-12-05 17:42:07	status: notfound, changed: 1
+2011-12-05 17:42:07	extracted 0 sentences
+2011-12-05 17:42:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:08	status: indexed, changed: 1
+2011-12-05 17:42:11	doc #280429, title:'Giulia nel salotto di Gozzano'
+2011-12-05 17:42:11	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:11	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:11	sentences stored into database: 0
+2011-12-05 17:42:11	no sentences saved into database, then chunk...
+2011-12-05 17:42:11	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005932.txt
+2011-12-05 17:42:11	status: notfound, changed: 1
+2011-12-05 17:42:11	extracted 0 sentences
+2011-12-05 17:42:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:11	status: indexed, changed: 1
+2011-12-05 17:42:13	doc #280430, title:'Non mandate tutto in fumo'
+2011-12-05 17:42:13	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:13	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:13	sentences stored into database: 0
+2011-12-05 17:42:13	no sentences saved into database, then chunk...
+2011-12-05 17:42:13	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005933.txt
+2011-12-05 17:42:13	status: notfound, changed: 1
+2011-12-05 17:42:13	extracted 0 sentences
+2011-12-05 17:42:14	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:14	status: indexed, changed: 1
+2011-12-05 17:42:15	doc #280431, title:'Lebed il ribelle lascia l' Armata Rossa'
+2011-12-05 17:42:15	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:15	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:16	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:16	sentences stored into database: 0
+2011-12-05 17:42:16	no sentences saved into database, then chunk...
+2011-12-05 17:42:16	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005934.txt
+2011-12-05 17:42:16	status: notfound, changed: 1
+2011-12-05 17:42:16	extracted 0 sentences
+2011-12-05 17:42:16	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:16	status: indexed, changed: 1
+2011-12-05 17:42:19	doc #280432, title:'Saint Louis: Melin nuovo presidente'
+2011-12-05 17:42:19	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:19	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:20	sentences stored into database: 0
+2011-12-05 17:42:20	no sentences saved into database, then chunk...
+2011-12-05 17:42:20	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005935.txt
+2011-12-05 17:42:20	status: notfound, changed: 1
+2011-12-05 17:42:20	extracted 0 sentences
+2011-12-05 17:42:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:20	status: indexed, changed: 1
+2011-12-05 17:42:22	doc #280433, title:'metrebus. da giovedi' tessera piu' cara ma solo per i pendolari'
+2011-12-05 17:42:22	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:22	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:23	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:23	sentences stored into database: 0
+2011-12-05 17:42:23	no sentences saved into database, then chunk...
+2011-12-05 17:42:23	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005936.txt
+2011-12-05 17:42:23	status: notfound, changed: 1
+2011-12-05 17:42:23	extracted 0 sentences
+2011-12-05 17:42:23	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:23	status: indexed, changed: 1
+2011-12-05 17:42:25	doc #280434, title:'dalla macchina da scrivere ai pennelli: nasce l' inviato pittore'
+2011-12-05 17:42:25	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:25	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:25	sentences stored into database: 0
+2011-12-05 17:42:25	no sentences saved into database, then chunk...
+2011-12-05 17:42:25	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005937.txt
+2011-12-05 17:42:25	status: notfound, changed: 1
+2011-12-05 17:42:25	extracted 0 sentences
+2011-12-05 17:42:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:26	status: indexed, changed: 1
+2011-12-05 17:42:28	doc #280435, title:'lettere dalla capitale'
+2011-12-05 17:42:28	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:28	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:29	sentences stored into database: 0
+2011-12-05 17:42:29	no sentences saved into database, then chunk...
+2011-12-05 17:42:29	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005938.txt
+2011-12-05 17:42:29	status: notfound, changed: 1
+2011-12-05 17:42:29	extracted 0 sentences
+2011-12-05 17:42:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:29	status: indexed, changed: 1
+2011-12-05 17:42:31	doc #280436, title:'appuntamenti'
+2011-12-05 17:42:31	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:31	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:31	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:31	sentences stored into database: 0
+2011-12-05 17:42:31	no sentences saved into database, then chunk...
+2011-12-05 17:42:31	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005939.txt
+2011-12-05 17:42:31	status: notfound, changed: 1
+2011-12-05 17:42:31	extracted 0 sentences
+2011-12-05 17:42:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:32	status: indexed, changed: 1
+2011-12-05 17:42:34	doc #280437, title:'con Barra e gli Almamegretta irrompe la sarabanda di Napoli'
+2011-12-05 17:42:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:34	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:34	sentences stored into database: 0
+2011-12-05 17:42:34	no sentences saved into database, then chunk...
+2011-12-05 17:42:34	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005940.txt
+2011-12-05 17:42:34	status: notfound, changed: 1
+2011-12-05 17:42:34	extracted 0 sentences
+2011-12-05 17:42:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:35	status: indexed, changed: 1
+2011-12-05 17:42:37	doc #280438, title:'Anziano ucciso da auto durante il temporale'
+2011-12-05 17:42:37	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:37	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:37	sentences stored into database: 0
+2011-12-05 17:42:37	no sentences saved into database, then chunk...
+2011-12-05 17:42:37	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005941.txt
+2011-12-05 17:42:37	status: notfound, changed: 1
+2011-12-05 17:42:38	extracted 0 sentences
+2011-12-05 17:42:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:38	status: indexed, changed: 1
+2011-12-05 17:42:40	doc #280439, title:'Protestano i detenuti di San Vittore'
+2011-12-05 17:42:40	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:40	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:41	sentences stored into database: 0
+2011-12-05 17:42:41	no sentences saved into database, then chunk...
+2011-12-05 17:42:41	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-05-31-00005942.txt
+2011-12-05 17:42:41	status: notfound, changed: 1
+2011-12-05 17:42:41	extracted 0 sentences
+2011-12-05 17:42:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:41	status: indexed, changed: 1
+2011-12-05 17:42:43	doc #280440, title:'Piu' intralci alle indagini che garanzie per l' indiziato'
+2011-12-05 17:42:43	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:43	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:43	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:43	sentences stored into database: 0
+2011-12-05 17:42:43	no sentences saved into database, then chunk...
+2011-12-05 17:42:43	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000000.txt
+2011-12-05 17:42:43	status: notfound, changed: 1
+2011-12-05 17:42:43	extracted 0 sentences
+2011-12-05 17:42:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:44	status: indexed, changed: 1
+2011-12-05 17:42:45	doc #280441, title:'A Montecitorio protesta anti fumo'
+2011-12-05 17:42:45	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:45	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:46	sentences stored into database: 0
+2011-12-05 17:42:46	no sentences saved into database, then chunk...
+2011-12-05 17:42:46	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000001.txt
+2011-12-05 17:42:46	status: notfound, changed: 1
+2011-12-05 17:42:46	extracted 0 sentences
+2011-12-05 17:42:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:46	status: indexed, changed: 1
+2011-12-05 17:42:48	doc #280442, title:'Mosca si siede al tavolo della Nato'
+2011-12-05 17:42:48	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:48	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:49	sentences stored into database: 0
+2011-12-05 17:42:49	no sentences saved into database, then chunk...
+2011-12-05 17:42:49	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000002.txt
+2011-12-05 17:42:49	status: notfound, changed: 1
+2011-12-05 17:42:49	extracted 0 sentences
+2011-12-05 17:42:50	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:50	status: indexed, changed: 1
+2011-12-05 17:42:51	doc #280443, title:'Begley: bugie per salvarsi dallo sterminio'
+2011-12-05 17:42:51	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:51	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:52	sentences stored into database: 0
+2011-12-05 17:42:52	no sentences saved into database, then chunk...
+2011-12-05 17:42:52	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000003.txt
+2011-12-05 17:42:52	status: notfound, changed: 1
+2011-12-05 17:42:52	extracted 0 sentences
+2011-12-05 17:42:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:52	status: indexed, changed: 1
+2011-12-05 17:42:55	doc #280444, title:'Charlton Heston accusa: Marilyn " uccise " Clark Gable'
+2011-12-05 17:42:55	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:55	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:55	sentences stored into database: 0
+2011-12-05 17:42:55	no sentences saved into database, then chunk...
+2011-12-05 17:42:55	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000004.txt
+2011-12-05 17:42:55	status: notfound, changed: 1
+2011-12-05 17:42:55	extracted 0 sentences
+2011-12-05 17:42:56	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:56	status: indexed, changed: 1
+2011-12-05 17:42:58	doc #280445, title:'Ma i sindacati replicano: " Non e' vera bocciatura "'
+2011-12-05 17:42:58	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:42:58	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:42:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:58	sentences stored into database: 0
+2011-12-05 17:42:58	no sentences saved into database, then chunk...
+2011-12-05 17:42:58	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000005.txt
+2011-12-05 17:42:58	status: notfound, changed: 1
+2011-12-05 17:42:58	extracted 0 sentences
+2011-12-05 17:42:59	daily request with Alchemy: 0/ 29900
+2011-12-05 17:42:59	status: indexed, changed: 1
+2011-12-05 17:43:01	doc #280446, title:'E la Cnn spedisce al fronte Peter Arnett'
+2011-12-05 17:43:01	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:01	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:01	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:01	sentences stored into database: 0
+2011-12-05 17:43:01	no sentences saved into database, then chunk...
+2011-12-05 17:43:01	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000006.txt
+2011-12-05 17:43:01	status: notfound, changed: 1
+2011-12-05 17:43:01	extracted 0 sentences
+2011-12-05 17:43:02	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:02	status: indexed, changed: 1
+2011-12-05 17:43:05	doc #280447, title:'Il principe cerca impiego'
+2011-12-05 17:43:05	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:05	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:05	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:05	sentences stored into database: 0
+2011-12-05 17:43:05	no sentences saved into database, then chunk...
+2011-12-05 17:43:05	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000007.txt
+2011-12-05 17:43:05	status: notfound, changed: 1
+2011-12-05 17:43:05	extracted 0 sentences
+2011-12-05 17:43:05	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:05	status: indexed, changed: 1
+2011-12-05 17:43:07	doc #280448, title:'Vendetta a luci rosse per soldatessa corretta'
+2011-12-05 17:43:07	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:07	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:07	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:07	sentences stored into database: 0
+2011-12-05 17:43:07	no sentences saved into database, then chunk...
+2011-12-05 17:43:07	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000008.txt
+2011-12-05 17:43:07	status: notfound, changed: 1
+2011-12-05 17:43:07	extracted 0 sentences
+2011-12-05 17:43:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:08	status: indexed, changed: 1
+2011-12-05 17:43:10	doc #280449, title:'Quel silenzio su Sme e intese di Maastricht'
+2011-12-05 17:43:10	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:10	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:10	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:10	sentences stored into database: 0
+2011-12-05 17:43:10	no sentences saved into database, then chunk...
+2011-12-05 17:43:10	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000009.txt
+2011-12-05 17:43:10	status: notfound, changed: 1
+2011-12-05 17:43:10	extracted 0 sentences
+2011-12-05 17:43:10	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:10	status: indexed, changed: 1
+2011-12-05 17:43:13	doc #280450, title:'" Ci sfuggono migliaia di miliardi "'
+2011-12-05 17:43:13	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:13	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:13	sentences stored into database: 0
+2011-12-05 17:43:13	no sentences saved into database, then chunk...
+2011-12-05 17:43:13	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000010.txt
+2011-12-05 17:43:13	status: notfound, changed: 1
+2011-12-05 17:43:13	extracted 0 sentences
+2011-12-05 17:43:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:13	status: indexed, changed: 1
+2011-12-05 17:43:16	doc #280451, title:'" Questa Roma e' invivibile. . .  "'
+2011-12-05 17:43:16	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:16	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:17	sentences stored into database: 0
+2011-12-05 17:43:17	no sentences saved into database, then chunk...
+2011-12-05 17:43:17	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000011.txt
+2011-12-05 17:43:17	status: notfound, changed: 1
+2011-12-05 17:43:17	extracted 0 sentences
+2011-12-05 17:43:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:17	status: indexed, changed: 1
+2011-12-05 17:43:19	doc #280452, title:'I roghi dei libri'
+2011-12-05 17:43:19	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:19	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:19	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:19	sentences stored into database: 0
+2011-12-05 17:43:19	no sentences saved into database, then chunk...
+2011-12-05 17:43:19	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000012.txt
+2011-12-05 17:43:19	status: notfound, changed: 1
+2011-12-05 17:43:19	extracted 0 sentences
+2011-12-05 17:43:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:20	status: indexed, changed: 1
+2011-12-05 17:43:21	doc #280453, title:'NOINDC'
+2011-12-05 17:43:21	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:21	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:22	sentences stored into database: 0
+2011-12-05 17:43:22	no sentences saved into database, then chunk...
+2011-12-05 17:43:22	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000013.txt
+2011-12-05 17:43:22	status: notfound, changed: 1
+2011-12-05 17:43:22	extracted 0 sentences
+2011-12-05 17:43:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:22	status: indexed, changed: 1
+2011-12-05 17:43:25	doc #280454, title:'La rabbia dei dimenticati'
+2011-12-05 17:43:25	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:25	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:26	sentences stored into database: 0
+2011-12-05 17:43:26	no sentences saved into database, then chunk...
+2011-12-05 17:43:26	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000014.txt
+2011-12-05 17:43:26	status: notfound, changed: 1
+2011-12-05 17:43:26	extracted 0 sentences
+2011-12-05 17:43:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:26	status: indexed, changed: 1
+2011-12-05 17:43:29	doc #280455, title:'Sos per una bimba da salvare'
+2011-12-05 17:43:29	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:29	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:29	sentences stored into database: 0
+2011-12-05 17:43:29	no sentences saved into database, then chunk...
+2011-12-05 17:43:29	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000015.txt
+2011-12-05 17:43:29	status: notfound, changed: 1
+2011-12-05 17:43:29	extracted 0 sentences
+2011-12-05 17:43:30	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:30	status: indexed, changed: 1
+2011-12-05 17:43:32	doc #280456, title:'De Benedetti: perche' sono ingegnere'
+2011-12-05 17:43:32	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:32	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:33	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:33	sentences stored into database: 0
+2011-12-05 17:43:33	no sentences saved into database, then chunk...
+2011-12-05 17:43:33	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000016.txt
+2011-12-05 17:43:33	status: notfound, changed: 1
+2011-12-05 17:43:33	extracted 0 sentences
+2011-12-05 17:43:33	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:33	status: indexed, changed: 1
+2011-12-05 17:43:36	doc #280457, title:'VINCONO MARCHIANO' , PAGE E MAZZINO'
+2011-12-05 17:43:36	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:36	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:36	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:36	sentences stored into database: 0
+2011-12-05 17:43:36	no sentences saved into database, then chunk...
+2011-12-05 17:43:36	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000017.txt
+2011-12-05 17:43:36	status: notfound, changed: 1
+2011-12-05 17:43:36	extracted 0 sentences
+2011-12-05 17:43:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:37	status: indexed, changed: 1
+2011-12-05 17:43:39	doc #280458, title:'Nottetempo il " senatur " si sveglia. E rilegge Bossi'
+2011-12-05 17:43:39	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:39	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:39	sentences stored into database: 0
+2011-12-05 17:43:39	no sentences saved into database, then chunk...
+2011-12-05 17:43:39	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000018.txt
+2011-12-05 17:43:39	status: notfound, changed: 1
+2011-12-05 17:43:39	extracted 0 sentences
+2011-12-05 17:43:40	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:40	status: indexed, changed: 1
+2011-12-05 17:43:42	doc #280459, title:'Appalti, ora la riforma e' legge'
+2011-12-05 17:43:42	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:42	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:42	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:42	sentences stored into database: 0
+2011-12-05 17:43:42	no sentences saved into database, then chunk...
+2011-12-05 17:43:42	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000019.txt
+2011-12-05 17:43:42	status: notfound, changed: 1
+2011-12-05 17:43:42	extracted 0 sentences
+2011-12-05 17:43:43	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:43	status: indexed, changed: 1
+2011-12-05 17:43:45	doc #280460, title:'Falck: l' acciaio non rende piu''
+2011-12-05 17:43:45	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:45	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:46	sentences stored into database: 0
+2011-12-05 17:43:46	no sentences saved into database, then chunk...
+2011-12-05 17:43:46	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000020.txt
+2011-12-05 17:43:46	status: notfound, changed: 1
+2011-12-05 17:43:46	extracted 0 sentences
+2011-12-05 17:43:47	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:47	status: indexed, changed: 1
+2011-12-05 17:43:48	doc #280461, title:'Via libera al collocamento Usinor'
+2011-12-05 17:43:48	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:48	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:49	sentences stored into database: 0
+2011-12-05 17:43:49	no sentences saved into database, then chunk...
+2011-12-05 17:43:49	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000021.txt
+2011-12-05 17:43:49	status: notfound, changed: 1
+2011-12-05 17:43:49	extracted 0 sentences
+2011-12-05 17:43:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:49	status: indexed, changed: 1
+2011-12-05 17:43:51	doc #280462, title:'Pagamenti: aziende italiane piu' puntuali'
+2011-12-05 17:43:51	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:51	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:52	sentences stored into database: 0
+2011-12-05 17:43:52	no sentences saved into database, then chunk...
+2011-12-05 17:43:52	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000022.txt
+2011-12-05 17:43:52	status: notfound, changed: 1
+2011-12-05 17:43:52	extracted 0 sentences
+2011-12-05 17:43:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:52	status: indexed, changed: 1
+2011-12-05 17:43:55	doc #280463, title:'ORGOGLIOSI DI LAVORARE IN PUBLITALIA ' 80'
+2011-12-05 17:43:55	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:55	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:55	sentences stored into database: 0
+2011-12-05 17:43:55	no sentences saved into database, then chunk...
+2011-12-05 17:43:55	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000023.txt
+2011-12-05 17:43:55	status: notfound, changed: 1
+2011-12-05 17:43:55	extracted 0 sentences
+2011-12-05 17:43:56	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:56	status: indexed, changed: 1
+2011-12-05 17:43:58	doc #280464, title:'Io, ebreo, nazista per un anno'
+2011-12-05 17:43:58	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:43:58	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:43:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:58	sentences stored into database: 0
+2011-12-05 17:43:58	no sentences saved into database, then chunk...
+2011-12-05 17:43:58	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000024.txt
+2011-12-05 17:43:58	status: notfound, changed: 1
+2011-12-05 17:43:58	extracted 0 sentences
+2011-12-05 17:43:59	daily request with Alchemy: 0/ 29900
+2011-12-05 17:43:59	status: indexed, changed: 1
+2011-12-05 17:44:01	doc #280465, title:'Infortunio alla gita scolastica Allievo risarcito dopo 10 anni'
+2011-12-05 17:44:01	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:01	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:02	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:02	sentences stored into database: 0
+2011-12-05 17:44:02	no sentences saved into database, then chunk...
+2011-12-05 17:44:02	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000025.txt
+2011-12-05 17:44:02	status: notfound, changed: 1
+2011-12-05 17:44:02	extracted 0 sentences
+2011-12-05 17:44:02	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:02	status: indexed, changed: 1
+2011-12-05 17:44:04	doc #280466, title:'Buttiglione sul commissariamento: " E' la via giudiziaria al socialismo "'
+2011-12-05 17:44:04	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:04	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:04	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:04	sentences stored into database: 0
+2011-12-05 17:44:04	no sentences saved into database, then chunk...
+2011-12-05 17:44:04	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000026.txt
+2011-12-05 17:44:04	status: notfound, changed: 1
+2011-12-05 17:44:04	extracted 0 sentences
+2011-12-05 17:44:05	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:05	status: indexed, changed: 1
+2011-12-05 17:44:07	doc #280467, title:'Ottoz sotto la pioggia e' mondiale nei 200 hs'
+2011-12-05 17:44:07	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:07	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:08	sentences stored into database: 0
+2011-12-05 17:44:08	no sentences saved into database, then chunk...
+2011-12-05 17:44:08	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000027.txt
+2011-12-05 17:44:08	status: notfound, changed: 1
+2011-12-05 17:44:08	extracted 0 sentences
+2011-12-05 17:44:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:08	status: indexed, changed: 1
+2011-12-05 17:44:10	doc #280468, title:'" Mai piu' sigarette nei pubblici uffici "'
+2011-12-05 17:44:10	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:10	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:11	sentences stored into database: 0
+2011-12-05 17:44:11	no sentences saved into database, then chunk...
+2011-12-05 17:44:11	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000028.txt
+2011-12-05 17:44:11	status: notfound, changed: 1
+2011-12-05 17:44:11	extracted 0 sentences
+2011-12-05 17:44:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:11	status: indexed, changed: 1
+2011-12-05 17:44:13	doc #280469, title:'Balzo di Ambroveneto'
+2011-12-05 17:44:13	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:13	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:13	sentences stored into database: 0
+2011-12-05 17:44:13	no sentences saved into database, then chunk...
+2011-12-05 17:44:13	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000029.txt
+2011-12-05 17:44:13	status: notfound, changed: 1
+2011-12-05 17:44:13	extracted 0 sentences
+2011-12-05 17:44:14	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:14	status: indexed, changed: 1
+2011-12-05 17:44:16	doc #280470, title:'Sopaf, la prima in " rosso "'
+2011-12-05 17:44:16	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:16	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:17	sentences stored into database: 0
+2011-12-05 17:44:17	no sentences saved into database, then chunk...
+2011-12-05 17:44:17	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000030.txt
+2011-12-05 17:44:17	status: notfound, changed: 1
+2011-12-05 17:44:17	extracted 0 sentences
+2011-12-05 17:44:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:17	status: indexed, changed: 1
+2011-12-05 17:44:19	doc #280471, title:'mostra sul corallo in via Torino'
+2011-12-05 17:44:19	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:19	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:20	sentences stored into database: 0
+2011-12-05 17:44:20	no sentences saved into database, then chunk...
+2011-12-05 17:44:20	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000031.txt
+2011-12-05 17:44:20	status: notfound, changed: 1
+2011-12-05 17:44:20	extracted 0 sentences
+2011-12-05 17:44:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:20	status: indexed, changed: 1
+2011-12-05 17:44:23	doc #280472, title:'e i frontalieri chiedono aiuto a Bruxelles'
+2011-12-05 17:44:23	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:23	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:24	sentences stored into database: 0
+2011-12-05 17:44:24	no sentences saved into database, then chunk...
+2011-12-05 17:44:24	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000032.txt
+2011-12-05 17:44:24	status: notfound, changed: 1
+2011-12-05 17:44:24	extracted 0 sentences
+2011-12-05 17:44:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:25	status: indexed, changed: 1
+2011-12-05 17:44:27	doc #280473, title:'Il procuratore Lisciotto da Brescia in Cassazione'
+2011-12-05 17:44:27	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:27	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:27	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:27	sentences stored into database: 0
+2011-12-05 17:44:27	no sentences saved into database, then chunk...
+2011-12-05 17:44:27	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000033.txt
+2011-12-05 17:44:27	status: notfound, changed: 1
+2011-12-05 17:44:27	extracted 0 sentences
+2011-12-05 17:44:28	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:28	status: indexed, changed: 1
+2011-12-05 17:44:30	doc #280474, title:'Veleni nel pozzo: 3 intossicati'
+2011-12-05 17:44:30	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:30	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:30	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:30	sentences stored into database: 0
+2011-12-05 17:44:30	no sentences saved into database, then chunk...
+2011-12-05 17:44:30	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000034.txt
+2011-12-05 17:44:30	status: notfound, changed: 1
+2011-12-05 17:44:30	extracted 0 sentences
+2011-12-05 17:44:31	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:31	status: indexed, changed: 1
+2011-12-05 17:44:33	doc #280475, title:'Raccolta di fondi per le suore uccise'
+2011-12-05 17:44:33	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:33	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:34	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:34	sentences stored into database: 0
+2011-12-05 17:44:34	no sentences saved into database, then chunk...
+2011-12-05 17:44:34	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000035.txt
+2011-12-05 17:44:34	status: notfound, changed: 1
+2011-12-05 17:44:34	extracted 0 sentences
+2011-12-05 17:44:34	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:34	status: indexed, changed: 1
+2011-12-05 17:44:36	doc #280476, title:'Azzurri quasi alla pari dei leoni inglesi pero' l' Italia e'  lacerata sul c. t. Epurator'
+2011-12-05 17:44:36	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:36	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:37	sentences stored into database: 0
+2011-12-05 17:44:37	no sentences saved into database, then chunk...
+2011-12-05 17:44:37	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000036.txt
+2011-12-05 17:44:37	status: notfound, changed: 1
+2011-12-05 17:44:37	extracted 0 sentences
+2011-12-05 17:44:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:37	status: indexed, changed: 1
+2011-12-05 17:44:38	doc #280477, title:'Pirelli e C. , si cambia'
+2011-12-05 17:44:38	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:38	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:39	sentences stored into database: 0
+2011-12-05 17:44:39	no sentences saved into database, then chunk...
+2011-12-05 17:44:39	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000037.txt
+2011-12-05 17:44:39	status: notfound, changed: 1
+2011-12-05 17:44:39	extracted 0 sentences
+2011-12-05 17:44:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:39	status: indexed, changed: 1
+2011-12-05 17:44:42	doc #280478, title:'Sampras non vale Parigi'
+2011-12-05 17:44:42	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:42	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:42	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:42	sentences stored into database: 0
+2011-12-05 17:44:42	no sentences saved into database, then chunk...
+2011-12-05 17:44:42	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000038.txt
+2011-12-05 17:44:42	status: notfound, changed: 1
+2011-12-05 17:44:42	extracted 0 sentences
+2011-12-05 17:44:43	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:43	status: indexed, changed: 1
+2011-12-05 17:44:44	doc #280479, title:'Indagati diciassette tifosi: associazione a delinquere'
+2011-12-05 17:44:44	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:44	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:45	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:45	sentences stored into database: 0
+2011-12-05 17:44:45	no sentences saved into database, then chunk...
+2011-12-05 17:44:45	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000039.txt
+2011-12-05 17:44:45	status: notfound, changed: 1
+2011-12-05 17:44:45	extracted 0 sentences
+2011-12-05 17:44:45	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:45	status: indexed, changed: 1
+2011-12-05 17:44:47	doc #280480, title:'Ora si scontrano madri e maestre'
+2011-12-05 17:44:47	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:47	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:48	sentences stored into database: 0
+2011-12-05 17:44:48	no sentences saved into database, then chunk...
+2011-12-05 17:44:48	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000040.txt
+2011-12-05 17:44:48	status: notfound, changed: 1
+2011-12-05 17:44:48	extracted 0 sentences
+2011-12-05 17:44:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:48	status: indexed, changed: 1
+2011-12-05 17:44:50	doc #280481, title:'Elton John rinviato per pioggia'
+2011-12-05 17:44:50	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:50	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:51	sentences stored into database: 0
+2011-12-05 17:44:51	no sentences saved into database, then chunk...
+2011-12-05 17:44:51	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000041.txt
+2011-12-05 17:44:51	status: notfound, changed: 1
+2011-12-05 17:44:51	extracted 0 sentences
+2011-12-05 17:44:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:51	status: indexed, changed: 1
+2011-12-05 17:44:53	doc #280482, title:'Il " ciclone " Take That travolgera' il sabato dei " Cervelloni "'
+2011-12-05 17:44:53	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:53	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:54	sentences stored into database: 0
+2011-12-05 17:44:54	no sentences saved into database, then chunk...
+2011-12-05 17:44:54	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000042.txt
+2011-12-05 17:44:54	status: notfound, changed: 1
+2011-12-05 17:44:54	extracted 0 sentences
+2011-12-05 17:44:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:54	status: indexed, changed: 1
+2011-12-05 17:44:56	doc #280483, title:'Italmobiliare, nel ' 94 salgono utili e dividendi'
+2011-12-05 17:44:56	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:56	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:44:56	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:56	sentences stored into database: 0
+2011-12-05 17:44:56	no sentences saved into database, then chunk...
+2011-12-05 17:44:56	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000043.txt
+2011-12-05 17:44:56	status: notfound, changed: 1
+2011-12-05 17:44:56	extracted 0 sentences
+2011-12-05 17:44:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:44:57	status: indexed, changed: 1
+2011-12-05 17:44:59	doc #280484, title:'Musiche per arpa di autori svizzeri'
+2011-12-05 17:44:59	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:44:59	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:00	sentences stored into database: 0
+2011-12-05 17:45:00	no sentences saved into database, then chunk...
+2011-12-05 17:45:00	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000044.txt
+2011-12-05 17:45:00	status: notfound, changed: 1
+2011-12-05 17:45:00	extracted 0 sentences
+2011-12-05 17:45:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:00	status: indexed, changed: 1
+2011-12-05 17:45:02	doc #280485, title:'Dini difende Mancuso: " Giudici, meno parole " Manette piu'  difficili, si' del Senato'
+2011-12-05 17:45:02	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:02	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:03	sentences stored into database: 0
+2011-12-05 17:45:03	no sentences saved into database, then chunk...
+2011-12-05 17:45:03	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000045.txt
+2011-12-05 17:45:03	status: notfound, changed: 1
+2011-12-05 17:45:03	extracted 0 sentences
+2011-12-05 17:45:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:03	status: indexed, changed: 1
+2011-12-05 17:45:05	doc #280486, title:'Boxe sotto choc, Rosi accusato di doping'
+2011-12-05 17:45:05	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:05	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:06	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:06	sentences stored into database: 0
+2011-12-05 17:45:06	no sentences saved into database, then chunk...
+2011-12-05 17:45:06	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000046.txt
+2011-12-05 17:45:06	status: notfound, changed: 1
+2011-12-05 17:45:06	extracted 0 sentences
+2011-12-05 17:45:06	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:06	status: indexed, changed: 1
+2011-12-05 17:45:08	doc #280487, title:'Lupu, il fascino di un suono immateriale'
+2011-12-05 17:45:08	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:08	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:09	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:09	sentences stored into database: 0
+2011-12-05 17:45:09	no sentences saved into database, then chunk...
+2011-12-05 17:45:09	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000047.txt
+2011-12-05 17:45:09	status: notfound, changed: 1
+2011-12-05 17:45:09	extracted 0 sentences
+2011-12-05 17:45:09	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:09	status: indexed, changed: 1
+2011-12-05 17:45:11	doc #280488, title:'Magistrati all' assalto dell' universita''
+2011-12-05 17:45:11	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:11	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:12	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:12	sentences stored into database: 0
+2011-12-05 17:45:12	no sentences saved into database, then chunk...
+2011-12-05 17:45:12	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000048.txt
+2011-12-05 17:45:12	status: notfound, changed: 1
+2011-12-05 17:45:12	extracted 0 sentences
+2011-12-05 17:45:12	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:12	status: indexed, changed: 1
+2011-12-05 17:45:14	doc #280489, title:'Referendum tv, Fede si autoscura: non ne posso piu''
+2011-12-05 17:45:14	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:14	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:14	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:14	sentences stored into database: 0
+2011-12-05 17:45:14	no sentences saved into database, then chunk...
+2011-12-05 17:45:14	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000049.txt
+2011-12-05 17:45:14	status: notfound, changed: 1
+2011-12-05 17:45:14	extracted 0 sentences
+2011-12-05 17:45:15	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:15	status: indexed, changed: 1
+2011-12-05 17:45:18	doc #280490, title:'Il teste e' un mitomane'
+2011-12-05 17:45:18	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:18	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:18	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:18	sentences stored into database: 0
+2011-12-05 17:45:18	no sentences saved into database, then chunk...
+2011-12-05 17:45:18	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000050.txt
+2011-12-05 17:45:18	status: notfound, changed: 1
+2011-12-05 17:45:18	extracted 0 sentences
+2011-12-05 17:45:19	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:19	status: indexed, changed: 1
+2011-12-05 17:45:22	doc #280491, title:'Fuggiva nuda: travolta e ammazzata'
+2011-12-05 17:45:22	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:22	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:22	sentences stored into database: 0
+2011-12-05 17:45:22	no sentences saved into database, then chunk...
+2011-12-05 17:45:22	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000051.txt
+2011-12-05 17:45:22	status: notfound, changed: 1
+2011-12-05 17:45:22	extracted 0 sentences
+2011-12-05 17:45:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:22	status: indexed, changed: 1
+2011-12-05 17:45:24	doc #280492, title:'Pescante sgrida Matarrese: " Sistema Balbo e Sensini "'
+2011-12-05 17:45:24	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:24	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:25	sentences stored into database: 0
+2011-12-05 17:45:25	no sentences saved into database, then chunk...
+2011-12-05 17:45:25	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000052.txt
+2011-12-05 17:45:25	status: notfound, changed: 1
+2011-12-05 17:45:25	extracted 0 sentences
+2011-12-05 17:45:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:25	status: indexed, changed: 1
+2011-12-05 17:45:27	doc #280493, title:'Bailey: " Baby Fae oggi vivrebbe ho selezionato i babbuini giusti "'
+2011-12-05 17:45:27	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:27	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:27	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:27	sentences stored into database: 0
+2011-12-05 17:45:27	no sentences saved into database, then chunk...
+2011-12-05 17:45:27	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000053.txt
+2011-12-05 17:45:27	status: notfound, changed: 1
+2011-12-05 17:45:27	extracted 0 sentences
+2011-12-05 17:45:28	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:28	status: indexed, changed: 1
+2011-12-05 17:45:30	doc #280494, title:'Fifa: golden goal al Mondiale francese'
+2011-12-05 17:45:30	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:30	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:30	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:30	sentences stored into database: 0
+2011-12-05 17:45:30	no sentences saved into database, then chunk...
+2011-12-05 17:45:30	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000054.txt
+2011-12-05 17:45:30	status: notfound, changed: 1
+2011-12-05 17:45:30	extracted 0 sentences
+2011-12-05 17:45:31	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:31	status: indexed, changed: 1
+2011-12-05 17:45:32	doc #280495, title:'Fiera, il Senato vota Manfredi'
+2011-12-05 17:45:32	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:32	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:33	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:33	sentences stored into database: 0
+2011-12-05 17:45:33	no sentences saved into database, then chunk...
+2011-12-05 17:45:33	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000055.txt
+2011-12-05 17:45:33	status: notfound, changed: 1
+2011-12-05 17:45:33	extracted 0 sentences
+2011-12-05 17:45:33	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:33	status: indexed, changed: 1
+2011-12-05 17:45:35	doc #280496, title:'Santavaleria disponibile a riacquistare Buffetti'
+2011-12-05 17:45:35	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:35	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:35	sentences stored into database: 0
+2011-12-05 17:45:35	no sentences saved into database, then chunk...
+2011-12-05 17:45:35	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000056.txt
+2011-12-05 17:45:35	status: notfound, changed: 1
+2011-12-05 17:45:35	extracted 0 sentences
+2011-12-05 17:45:36	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:36	status: indexed, changed: 1
+2011-12-05 17:45:38	doc #280497, title:'In via Dezza crolla un pino di 12 metri'
+2011-12-05 17:45:38	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:38	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:38	sentences stored into database: 0
+2011-12-05 17:45:38	no sentences saved into database, then chunk...
+2011-12-05 17:45:38	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000057.txt
+2011-12-05 17:45:38	status: notfound, changed: 1
+2011-12-05 17:45:38	extracted 0 sentences
+2011-12-05 17:45:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:39	status: indexed, changed: 1
+2011-12-05 17:45:41	doc #280498, title:'Fatta in volo e condivisa a terra, l' arringa Gelati e' giusta'
+2011-12-05 17:45:41	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:41	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:41	sentences stored into database: 0
+2011-12-05 17:45:41	no sentences saved into database, then chunk...
+2011-12-05 17:45:41	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000058.txt
+2011-12-05 17:45:41	status: notfound, changed: 1
+2011-12-05 17:45:41	extracted 0 sentences
+2011-12-05 17:45:42	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:42	status: indexed, changed: 1
+2011-12-05 17:45:44	doc #280499, title:'" Fu per la pay tv la prima mazzetta "'
+2011-12-05 17:45:44	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:44	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:44	sentences stored into database: 0
+2011-12-05 17:45:44	no sentences saved into database, then chunk...
+2011-12-05 17:45:44	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000059.txt
+2011-12-05 17:45:44	status: notfound, changed: 1
+2011-12-05 17:45:44	extracted 0 sentences
+2011-12-05 17:45:45	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:45	status: indexed, changed: 1
+2011-12-05 17:45:47	doc #280500, title:'Ospizio lager serviva viveri scaduti dal ' 92'
+2011-12-05 17:45:47	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:47	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:48	sentences stored into database: 0
+2011-12-05 17:45:48	no sentences saved into database, then chunk...
+2011-12-05 17:45:48	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000060.txt
+2011-12-05 17:45:48	status: notfound, changed: 1
+2011-12-05 17:45:48	extracted 0 sentences
+2011-12-05 17:45:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:48	status: indexed, changed: 1
+2011-12-05 17:45:50	doc #280501, title:'MOTO Schwantz si ritira'
+2011-12-05 17:45:50	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:50	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:51	sentences stored into database: 0
+2011-12-05 17:45:51	no sentences saved into database, then chunk...
+2011-12-05 17:45:51	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000061.txt
+2011-12-05 17:45:51	status: notfound, changed: 1
+2011-12-05 17:45:51	extracted 0 sentences
+2011-12-05 17:45:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:51	status: indexed, changed: 1
+2011-12-05 17:45:53	doc #280502, title:'7 Sette Corriere della Sera'
+2011-12-05 17:45:53	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:53	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:54	sentences stored into database: 0
+2011-12-05 17:45:54	no sentences saved into database, then chunk...
+2011-12-05 17:45:54	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000062.txt
+2011-12-05 17:45:54	status: notfound, changed: 1
+2011-12-05 17:45:54	extracted 0 sentences
+2011-12-05 17:45:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:54	status: indexed, changed: 1
+2011-12-05 17:45:56	doc #280503, title:'La piromane della Ricordi: " Pentita? No, ero proprio stufa "'
+2011-12-05 17:45:56	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:56	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:57	sentences stored into database: 0
+2011-12-05 17:45:57	no sentences saved into database, then chunk...
+2011-12-05 17:45:57	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000063.txt
+2011-12-05 17:45:57	status: notfound, changed: 1
+2011-12-05 17:45:57	extracted 0 sentences
+2011-12-05 17:45:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:57	status: indexed, changed: 1
+2011-12-05 17:45:59	doc #280504, title:'" Aids, chi violenta e' assassino "'
+2011-12-05 17:45:59	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:45:59	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:45:59	daily request with Alchemy: 0/ 29900
+2011-12-05 17:45:59	sentences stored into database: 0
+2011-12-05 17:45:59	no sentences saved into database, then chunk...
+2011-12-05 17:45:59	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000064.txt
+2011-12-05 17:45:59	status: notfound, changed: 1
+2011-12-05 17:45:59	extracted 0 sentences
+2011-12-05 17:46:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:00	status: indexed, changed: 1
+2011-12-05 17:46:04	doc #280505, title:'Magalli in pigiama dara' consigli di " buone letture "'
+2011-12-05 17:46:04	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:04	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:04	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:04	sentences stored into database: 0
+2011-12-05 17:46:04	no sentences saved into database, then chunk...
+2011-12-05 17:46:04	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000065.txt
+2011-12-05 17:46:04	status: notfound, changed: 1
+2011-12-05 17:46:04	extracted 0 sentences
+2011-12-05 17:46:05	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:05	status: indexed, changed: 1
+2011-12-05 17:46:07	doc #280506, title:'Publitalia, nuovo arresto'
+2011-12-05 17:46:07	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:07	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:07	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:07	sentences stored into database: 0
+2011-12-05 17:46:07	no sentences saved into database, then chunk...
+2011-12-05 17:46:07	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000066.txt
+2011-12-05 17:46:07	status: notfound, changed: 1
+2011-12-05 17:46:07	extracted 0 sentences
+2011-12-05 17:46:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:08	status: indexed, changed: 1
+2011-12-05 17:46:09	doc #280507, title:'per un palazzo della societa' MM braccio di ferro con 23 famiglie'
+2011-12-05 17:46:09	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:09	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:10	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:10	sentences stored into database: 0
+2011-12-05 17:46:10	no sentences saved into database, then chunk...
+2011-12-05 17:46:10	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000067.txt
+2011-12-05 17:46:10	status: notfound, changed: 1
+2011-12-05 17:46:10	extracted 0 sentences
+2011-12-05 17:46:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:11	status: indexed, changed: 1
+2011-12-05 17:46:13	doc #280508, title:'Una " reggia " di guai'
+2011-12-05 17:46:13	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:13	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:13	sentences stored into database: 0
+2011-12-05 17:46:13	no sentences saved into database, then chunk...
+2011-12-05 17:46:13	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000068.txt
+2011-12-05 17:46:13	status: notfound, changed: 1
+2011-12-05 17:46:13	extracted 0 sentences
+2011-12-05 17:46:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:13	status: indexed, changed: 1
+2011-12-05 17:46:16	doc #280509, title:'Uno striptease che guarda dentro'
+2011-12-05 17:46:16	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:16	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:16	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:16	sentences stored into database: 0
+2011-12-05 17:46:16	no sentences saved into database, then chunk...
+2011-12-05 17:46:16	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000069.txt
+2011-12-05 17:46:16	status: notfound, changed: 1
+2011-12-05 17:46:16	extracted 0 sentences
+2011-12-05 17:46:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:17	status: indexed, changed: 1
+2011-12-05 17:46:19	doc #280510, title:'il " Marchiondi " verso la rinascita'
+2011-12-05 17:46:19	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:19	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:19	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:19	sentences stored into database: 0
+2011-12-05 17:46:19	no sentences saved into database, then chunk...
+2011-12-05 17:46:19	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000070.txt
+2011-12-05 17:46:19	status: notfound, changed: 1
+2011-12-05 17:46:19	extracted 0 sentences
+2011-12-05 17:46:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:20	status: indexed, changed: 1
+2011-12-05 17:46:21	doc #280511, title:'Capena. ragazza di 20 anni schiacciata da un trattore'
+2011-12-05 17:46:21	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:21	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:22	sentences stored into database: 0
+2011-12-05 17:46:22	no sentences saved into database, then chunk...
+2011-12-05 17:46:22	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000071.txt
+2011-12-05 17:46:22	status: notfound, changed: 1
+2011-12-05 17:46:22	extracted 0 sentences
+2011-12-05 17:46:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:22	status: indexed, changed: 1
+2011-12-05 17:46:25	doc #280512, title:'handicappati. giu' dalla Rupe Tarpea grucce e carrozzelle con manichino'
+2011-12-05 17:46:25	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:25	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:26	sentences stored into database: 0
+2011-12-05 17:46:26	no sentences saved into database, then chunk...
+2011-12-05 17:46:26	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000072.txt
+2011-12-05 17:46:26	status: notfound, changed: 1
+2011-12-05 17:46:26	extracted 0 sentences
+2011-12-05 17:46:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:26	status: indexed, changed: 1
+2011-12-05 17:46:28	doc #280513, title:'" stava male, non lo hanno aiutato "'
+2011-12-05 17:46:28	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:28	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:28	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:28	sentences stored into database: 0
+2011-12-05 17:46:28	no sentences saved into database, then chunk...
+2011-12-05 17:46:28	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000073.txt
+2011-12-05 17:46:28	status: notfound, changed: 1
+2011-12-05 17:46:28	extracted 0 sentences
+2011-12-05 17:46:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:29	status: indexed, changed: 1
+2011-12-05 17:46:31	doc #280514, title:'Viterbo. accordo con Roma in vista del Giubileo'
+2011-12-05 17:46:31	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:31	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:31	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:31	sentences stored into database: 0
+2011-12-05 17:46:31	no sentences saved into database, then chunk...
+2011-12-05 17:46:31	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000074.txt
+2011-12-05 17:46:31	status: notfound, changed: 1
+2011-12-05 17:46:31	extracted 0 sentences
+2011-12-05 17:46:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:32	status: indexed, changed: 1
+2011-12-05 17:46:34	doc #280515, title:'guerra sull' ora di religione'
+2011-12-05 17:46:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:34	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:34	sentences stored into database: 0
+2011-12-05 17:46:34	no sentences saved into database, then chunk...
+2011-12-05 17:46:34	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000075.txt
+2011-12-05 17:46:34	status: notfound, changed: 1
+2011-12-05 17:46:34	extracted 0 sentences
+2011-12-05 17:46:34	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:34	status: indexed, changed: 1
+2011-12-05 17:46:36	doc #280516, title:'appuntamenti'
+2011-12-05 17:46:36	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:36	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:37	sentences stored into database: 0
+2011-12-05 17:46:37	no sentences saved into database, then chunk...
+2011-12-05 17:46:37	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000076.txt
+2011-12-05 17:46:37	status: notfound, changed: 1
+2011-12-05 17:46:37	extracted 0 sentences
+2011-12-05 17:46:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:37	status: indexed, changed: 1
+2011-12-05 17:46:39	doc #280517, title:'vigili: prima la manifestazione, poi la pace in Campidoglio'
+2011-12-05 17:46:39	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:39	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:39	sentences stored into database: 0
+2011-12-05 17:46:39	no sentences saved into database, then chunk...
+2011-12-05 17:46:39	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000077.txt
+2011-12-05 17:46:39	status: notfound, changed: 1
+2011-12-05 17:46:39	extracted 0 sentences
+2011-12-05 17:46:40	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:40	status: indexed, changed: 1
+2011-12-05 17:46:42	doc #280518, title:'un compleanno d' attrice'
+2011-12-05 17:46:42	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:42	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:42	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:42	sentences stored into database: 0
+2011-12-05 17:46:42	no sentences saved into database, then chunk...
+2011-12-05 17:46:42	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000078.txt
+2011-12-05 17:46:42	status: notfound, changed: 1
+2011-12-05 17:46:42	extracted 0 sentences
+2011-12-05 17:46:43	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:43	status: indexed, changed: 1
+2011-12-05 17:46:46	doc #280519, title:'incidenti. 2 operai in fin di vita a Boccea'
+2011-12-05 17:46:46	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:46	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:46	sentences stored into database: 0
+2011-12-05 17:46:46	no sentences saved into database, then chunk...
+2011-12-05 17:46:46	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000079.txt
+2011-12-05 17:46:46	status: notfound, changed: 1
+2011-12-05 17:46:46	extracted 0 sentences
+2011-12-05 17:46:47	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:47	status: indexed, changed: 1
+2011-12-05 17:46:49	doc #280520, title:'l' ultima sfida di Pat Metheny'
+2011-12-05 17:46:49	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:49	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:49	sentences stored into database: 0
+2011-12-05 17:46:49	no sentences saved into database, then chunk...
+2011-12-05 17:46:49	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000080.txt
+2011-12-05 17:46:49	status: notfound, changed: 1
+2011-12-05 17:46:49	extracted 0 sentences
+2011-12-05 17:46:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:49	status: indexed, changed: 1
+2011-12-05 17:46:51	doc #280521, title:'denuncia l' usuraio, minacciato di morte'
+2011-12-05 17:46:51	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:51	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:51	sentences stored into database: 0
+2011-12-05 17:46:51	no sentences saved into database, then chunk...
+2011-12-05 17:46:51	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000081.txt
+2011-12-05 17:46:51	status: notfound, changed: 1
+2011-12-05 17:46:51	extracted 0 sentences
+2011-12-05 17:46:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:52	status: indexed, changed: 1
+2011-12-05 17:46:54	doc #280522, title:'Arresti piu' difficili, il Senato approva'
+2011-12-05 17:46:54	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:54	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:54	sentences stored into database: 0
+2011-12-05 17:46:54	no sentences saved into database, then chunk...
+2011-12-05 17:46:54	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000082.txt
+2011-12-05 17:46:54	status: notfound, changed: 1
+2011-12-05 17:46:54	extracted 0 sentences
+2011-12-05 17:46:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:55	status: indexed, changed: 1
+2011-12-05 17:46:57	doc #280523, title:'Superman lotta con la morte dopo la caduta da cavallo'
+2011-12-05 17:46:57	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:46:57	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:46:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:57	sentences stored into database: 0
+2011-12-05 17:46:57	no sentences saved into database, then chunk...
+2011-12-05 17:46:57	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000083.txt
+2011-12-05 17:46:57	status: notfound, changed: 1
+2011-12-05 17:46:57	extracted 0 sentences
+2011-12-05 17:46:58	daily request with Alchemy: 0/ 29900
+2011-12-05 17:46:58	status: indexed, changed: 1
+2011-12-05 17:47:00	doc #280524, title:'Turba la vittima che diventa carnefice'
+2011-12-05 17:47:00	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:00	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:00	sentences stored into database: 0
+2011-12-05 17:47:00	no sentences saved into database, then chunk...
+2011-12-05 17:47:00	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000084.txt
+2011-12-05 17:47:00	status: notfound, changed: 1
+2011-12-05 17:47:00	extracted 0 sentences
+2011-12-05 17:47:01	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:01	status: indexed, changed: 1
+2011-12-05 17:47:03	doc #280525, title:'" Imprese, ora frenate i profitti "'
+2011-12-05 17:47:03	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:03	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:03	sentences stored into database: 0
+2011-12-05 17:47:03	no sentences saved into database, then chunk...
+2011-12-05 17:47:03	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000085.txt
+2011-12-05 17:47:03	status: notfound, changed: 1
+2011-12-05 17:47:03	extracted 0 sentences
+2011-12-05 17:47:04	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:04	status: indexed, changed: 1
+2011-12-05 17:47:06	doc #280526, title:'Occhetto: non e' facile allearsi con Bossi'
+2011-12-05 17:47:06	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:06	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:07	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:07	sentences stored into database: 0
+2011-12-05 17:47:07	no sentences saved into database, then chunk...
+2011-12-05 17:47:07	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000086.txt
+2011-12-05 17:47:07	status: notfound, changed: 1
+2011-12-05 17:47:07	extracted 0 sentences
+2011-12-05 17:47:07	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:07	status: indexed, changed: 1
+2011-12-05 17:47:10	doc #280527, title:'Manca numero legale saltano le leggi?'
+2011-12-05 17:47:10	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:10	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:10	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:10	sentences stored into database: 0
+2011-12-05 17:47:10	no sentences saved into database, then chunk...
+2011-12-05 17:47:10	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000087.txt
+2011-12-05 17:47:10	status: notfound, changed: 1
+2011-12-05 17:47:10	extracted 0 sentences
+2011-12-05 17:47:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:11	status: indexed, changed: 1
+2011-12-05 17:47:13	doc #280528, title:'Il mito Maxwell alla sbarra'
+2011-12-05 17:47:13	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:13	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:13	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:13	sentences stored into database: 0
+2011-12-05 17:47:13	no sentences saved into database, then chunk...
+2011-12-05 17:47:13	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000088.txt
+2011-12-05 17:47:13	status: notfound, changed: 1
+2011-12-05 17:47:13	extracted 0 sentences
+2011-12-05 17:47:14	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:14	status: indexed, changed: 1
+2011-12-05 17:47:15	doc #280529, title:'" Pronto, si' sono io " . La Pivetti inaugura il numero verde della Camera'
+2011-12-05 17:47:15	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:15	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:16	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:16	sentences stored into database: 0
+2011-12-05 17:47:16	no sentences saved into database, then chunk...
+2011-12-05 17:47:16	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000089.txt
+2011-12-05 17:47:16	status: notfound, changed: 1
+2011-12-05 17:47:16	extracted 0 sentences
+2011-12-05 17:47:16	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:16	status: indexed, changed: 1
+2011-12-05 17:47:18	doc #280530, title:'Il ritorno dei democratici in attesa di Jiang Zemin'
+2011-12-05 17:47:18	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:18	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:19	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:19	sentences stored into database: 0
+2011-12-05 17:47:19	no sentences saved into database, then chunk...
+2011-12-05 17:47:19	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000090.txt
+2011-12-05 17:47:19	status: notfound, changed: 1
+2011-12-05 17:47:19	extracted 0 sentences
+2011-12-05 17:47:19	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:19	status: indexed, changed: 1
+2011-12-05 17:47:21	doc #280531, title:'Dini difende Mancuso e bacchetta il Pool'
+2011-12-05 17:47:21	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:21	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:21	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:21	sentences stored into database: 0
+2011-12-05 17:47:21	no sentences saved into database, then chunk...
+2011-12-05 17:47:21	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000091.txt
+2011-12-05 17:47:21	status: notfound, changed: 1
+2011-12-05 17:47:21	extracted 0 sentences
+2011-12-05 17:47:22	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:22	status: indexed, changed: 1
+2011-12-05 17:47:24	doc #280532, title:'Tapie cerca casa a Bruxelles'
+2011-12-05 17:47:24	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:24	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:25	sentences stored into database: 0
+2011-12-05 17:47:25	no sentences saved into database, then chunk...
+2011-12-05 17:47:25	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000092.txt
+2011-12-05 17:47:25	status: notfound, changed: 1
+2011-12-05 17:47:25	extracted 0 sentences
+2011-12-05 17:47:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:25	status: indexed, changed: 1
+2011-12-05 17:47:28	doc #280533, title:'Il governo: ascolteremo gli avvocati'
+2011-12-05 17:47:28	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:28	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:29	sentences stored into database: 0
+2011-12-05 17:47:29	no sentences saved into database, then chunk...
+2011-12-05 17:47:29	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000093.txt
+2011-12-05 17:47:29	status: notfound, changed: 1
+2011-12-05 17:47:29	extracted 0 sentences
+2011-12-05 17:47:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:29	status: indexed, changed: 1
+2011-12-05 17:47:31	doc #280534, title:'Cecchi Gori " asso pigliatutto " del cinema'
+2011-12-05 17:47:31	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:31	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:32	sentences stored into database: 0
+2011-12-05 17:47:32	no sentences saved into database, then chunk...
+2011-12-05 17:47:32	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000094.txt
+2011-12-05 17:47:32	status: notfound, changed: 1
+2011-12-05 17:47:32	extracted 0 sentences
+2011-12-05 17:47:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:32	status: indexed, changed: 1
+2011-12-05 17:47:34	doc #280535, title:'Torna il " Don Chisciotte "'
+2011-12-05 17:47:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:34	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:34	sentences stored into database: 0
+2011-12-05 17:47:34	no sentences saved into database, then chunk...
+2011-12-05 17:47:34	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000095.txt
+2011-12-05 17:47:34	status: notfound, changed: 1
+2011-12-05 17:47:34	extracted 0 sentences
+2011-12-05 17:47:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:35	status: indexed, changed: 1
+2011-12-05 17:47:37	doc #280536, title:'Giovanna canta in omaggio a D' Anzi'
+2011-12-05 17:47:37	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:37	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:37	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:37	sentences stored into database: 0
+2011-12-05 17:47:37	no sentences saved into database, then chunk...
+2011-12-05 17:47:37	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000096.txt
+2011-12-05 17:47:38	status: notfound, changed: 1
+2011-12-05 17:47:38	extracted 0 sentences
+2011-12-05 17:47:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:38	status: indexed, changed: 1
+2011-12-05 17:47:40	doc #280537, title:'Berlusconi elogia Baldassarre: siamo con lui'
+2011-12-05 17:47:40	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:40	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:40	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:40	sentences stored into database: 0
+2011-12-05 17:47:40	no sentences saved into database, then chunk...
+2011-12-05 17:47:40	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000097.txt
+2011-12-05 17:47:40	status: notfound, changed: 1
+2011-12-05 17:47:40	extracted 0 sentences
+2011-12-05 17:47:40	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:40	status: indexed, changed: 1
+2011-12-05 17:47:43	doc #280538, title:'Cordova: di questo passo saranno i procuratori a diventare soggetti " socialmente pericolosi " Alla Consulta le norme sui pentiti'
+2011-12-05 17:47:43	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:43	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:43	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:43	sentences stored into database: 0
+2011-12-05 17:47:43	no sentences saved into database, then chunk...
+2011-12-05 17:47:43	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000098.txt
+2011-12-05 17:47:43	status: notfound, changed: 1
+2011-12-05 17:47:43	extracted 0 sentences
+2011-12-05 17:47:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:44	status: indexed, changed: 1
+2011-12-05 17:47:45	doc #280539, title:'Marc Ribot e il jazz di frontiera'
+2011-12-05 17:47:45	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:45	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:46	sentences stored into database: 0
+2011-12-05 17:47:46	no sentences saved into database, then chunk...
+2011-12-05 17:47:46	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000099.txt
+2011-12-05 17:47:46	status: notfound, changed: 1
+2011-12-05 17:47:46	extracted 0 sentences
+2011-12-05 17:47:46	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:46	status: indexed, changed: 1
+2011-12-05 17:47:48	doc #280540, title:'Soccorso atlantico sul dollaro'
+2011-12-05 17:47:48	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:48	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:48	sentences stored into database: 0
+2011-12-05 17:47:48	no sentences saved into database, then chunk...
+2011-12-05 17:47:48	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000100.txt
+2011-12-05 17:47:48	status: notfound, changed: 1
+2011-12-05 17:47:48	extracted 0 sentences
+2011-12-05 17:47:49	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:49	status: indexed, changed: 1
+2011-12-05 17:47:51	doc #280541, title:'Continua la favola dei tanti mariuoli'
+2011-12-05 17:47:51	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:51	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:51	sentences stored into database: 0
+2011-12-05 17:47:51	no sentences saved into database, then chunk...
+2011-12-05 17:47:51	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000101.txt
+2011-12-05 17:47:51	status: notfound, changed: 1
+2011-12-05 17:47:51	extracted 0 sentences
+2011-12-05 17:47:52	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:52	status: indexed, changed: 1
+2011-12-05 17:47:53	doc #280542, title:'Dini e Fazio ok. Ma non basta'
+2011-12-05 17:47:53	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:53	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:54	sentences stored into database: 0
+2011-12-05 17:47:54	no sentences saved into database, then chunk...
+2011-12-05 17:47:54	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000102.txt
+2011-12-05 17:47:54	status: notfound, changed: 1
+2011-12-05 17:47:54	extracted 0 sentences
+2011-12-05 17:47:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:54	status: indexed, changed: 1
+2011-12-05 17:47:57	doc #280543, title:'Michail, fratello povero del leader del Cremlino'
+2011-12-05 17:47:57	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:57	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:57	sentences stored into database: 0
+2011-12-05 17:47:57	no sentences saved into database, then chunk...
+2011-12-05 17:47:57	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000103.txt
+2011-12-05 17:47:57	status: notfound, changed: 1
+2011-12-05 17:47:57	extracted 0 sentences
+2011-12-05 17:47:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:57	status: indexed, changed: 1
+2011-12-05 17:47:59	doc #280544, title:'Fazio: colpire chi non paga le tasse'
+2011-12-05 17:47:59	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:47:59	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:47:59	daily request with Alchemy: 0/ 29900
+2011-12-05 17:47:59	sentences stored into database: 0
+2011-12-05 17:47:59	no sentences saved into database, then chunk...
+2011-12-05 17:47:59	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000104.txt
+2011-12-05 17:47:59	status: notfound, changed: 1
+2011-12-05 17:47:59	extracted 0 sentences
+2011-12-05 17:48:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:00	status: indexed, changed: 1
+2011-12-05 17:48:02	doc #280545, title:'Fuga dai conti correnti, l' Italia risparmia meno'
+2011-12-05 17:48:02	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:02	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:03	sentences stored into database: 0
+2011-12-05 17:48:03	no sentences saved into database, then chunk...
+2011-12-05 17:48:03	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000105.txt
+2011-12-05 17:48:03	status: notfound, changed: 1
+2011-12-05 17:48:03	extracted 0 sentences
+2011-12-05 17:48:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:03	status: indexed, changed: 1
+2011-12-05 17:48:05	doc #280546, title:'La difficile arte della diplomazia'
+2011-12-05 17:48:05	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:05	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:06	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:06	sentences stored into database: 0
+2011-12-05 17:48:06	no sentences saved into database, then chunk...
+2011-12-05 17:48:06	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000106.txt
+2011-12-05 17:48:06	status: notfound, changed: 1
+2011-12-05 17:48:06	extracted 0 sentences
+2011-12-05 17:48:06	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:06	status: indexed, changed: 1
+2011-12-05 17:48:08	doc #280547, title:'Indiscrezioni sbagliate'
+2011-12-05 17:48:08	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:08	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:08	sentences stored into database: 0
+2011-12-05 17:48:08	no sentences saved into database, then chunk...
+2011-12-05 17:48:08	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000107.txt
+2011-12-05 17:48:08	status: notfound, changed: 1
+2011-12-05 17:48:08	extracted 0 sentences
+2011-12-05 17:48:09	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:09	status: indexed, changed: 1
+2011-12-05 17:48:11	doc #280548, title:'Bergognone non insegna a San Simpliciano'
+2011-12-05 17:48:11	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:11	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:12	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:12	sentences stored into database: 0
+2011-12-05 17:48:12	no sentences saved into database, then chunk...
+2011-12-05 17:48:12	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000108.txt
+2011-12-05 17:48:12	status: notfound, changed: 1
+2011-12-05 17:48:12	extracted 0 sentences
+2011-12-05 17:48:12	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:12	status: indexed, changed: 1
+2011-12-05 17:48:14	doc #280549, title:'La star Mel Gibson va all' attacco " Arma letale " contro Bill Clinton'
+2011-12-05 17:48:14	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:14	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:15	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:15	sentences stored into database: 0
+2011-12-05 17:48:15	no sentences saved into database, then chunk...
+2011-12-05 17:48:15	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000109.txt
+2011-12-05 17:48:15	status: notfound, changed: 1
+2011-12-05 17:48:15	extracted 0 sentences
+2011-12-05 17:48:15	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:15	status: indexed, changed: 1
+2011-12-05 17:48:17	doc #280550, title:'Tutte le tappe e le trappole sulla via della valuta unica'
+2011-12-05 17:48:17	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:17	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:17	sentences stored into database: 0
+2011-12-05 17:48:17	no sentences saved into database, then chunk...
+2011-12-05 17:48:17	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000110.txt
+2011-12-05 17:48:17	status: notfound, changed: 1
+2011-12-05 17:48:17	extracted 0 sentences
+2011-12-05 17:48:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:17	status: indexed, changed: 1
+2011-12-05 17:48:19	doc #280551, title:'Il pentito accusa Firenze'
+2011-12-05 17:48:19	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:19	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:20	sentences stored into database: 0
+2011-12-05 17:48:20	no sentences saved into database, then chunk...
+2011-12-05 17:48:20	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000111.txt
+2011-12-05 17:48:20	status: notfound, changed: 1
+2011-12-05 17:48:20	extracted 0 sentences
+2011-12-05 17:48:20	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:21	status: indexed, changed: 1
+2011-12-05 17:48:23	doc #280552, title:'I FINALISTI DELLO SCANNO'
+2011-12-05 17:48:23	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:23	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:24	sentences stored into database: 0
+2011-12-05 17:48:24	no sentences saved into database, then chunk...
+2011-12-05 17:48:24	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000112.txt
+2011-12-05 17:48:24	status: notfound, changed: 1
+2011-12-05 17:48:24	extracted 0 sentences
+2011-12-05 17:48:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:24	status: indexed, changed: 1
+2011-12-05 17:48:26	doc #280553, title:'Meglio gli uomini o l' umanita' ? Gli universali, che gran questione'
+2011-12-05 17:48:26	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:26	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:26	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:26	sentences stored into database: 0
+2011-12-05 17:48:26	no sentences saved into database, then chunk...
+2011-12-05 17:48:26	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000113.txt
+2011-12-05 17:48:26	status: notfound, changed: 1
+2011-12-05 17:48:26	extracted 0 sentences
+2011-12-05 17:48:27	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:27	status: indexed, changed: 1
+2011-12-05 17:48:28	doc #280554, title:'Il calcio palestinese ammesso dalla Fifa'
+2011-12-05 17:48:28	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:28	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:29	sentences stored into database: 0
+2011-12-05 17:48:29	no sentences saved into database, then chunk...
+2011-12-05 17:48:29	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000114.txt
+2011-12-05 17:48:29	status: notfound, changed: 1
+2011-12-05 17:48:29	extracted 0 sentences
+2011-12-05 17:48:29	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:29	status: indexed, changed: 1
+2011-12-05 17:48:31	doc #280555, title:'Vertice di generali in Adriatico'
+2011-12-05 17:48:31	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:31	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:32	sentences stored into database: 0
+2011-12-05 17:48:32	no sentences saved into database, then chunk...
+2011-12-05 17:48:32	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000115.txt
+2011-12-05 17:48:32	status: notfound, changed: 1
+2011-12-05 17:48:32	extracted 0 sentences
+2011-12-05 17:48:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:32	status: indexed, changed: 1
+2011-12-05 17:48:34	doc #280556, title:'" Ina e Imi, il Tesoro spieghi "'
+2011-12-05 17:48:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:35	sentences stored into database: 0
+2011-12-05 17:48:35	no sentences saved into database, then chunk...
+2011-12-05 17:48:35	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000116.txt
+2011-12-05 17:48:35	status: notfound, changed: 1
+2011-12-05 17:48:35	extracted 0 sentences
+2011-12-05 17:48:36	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:36	status: indexed, changed: 1
+2011-12-05 17:48:37	doc #280557, title:'E adesso Telecinco cerca soci'
+2011-12-05 17:48:37	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:37	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:38	sentences stored into database: 0
+2011-12-05 17:48:38	no sentences saved into database, then chunk...
+2011-12-05 17:48:38	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000117.txt
+2011-12-05 17:48:38	status: notfound, changed: 1
+2011-12-05 17:48:38	extracted 0 sentences
+2011-12-05 17:48:38	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:38	status: indexed, changed: 1
+2011-12-05 17:48:41	doc #280558, title:'Svolta di Clinton: truppe USA in Bosnia'
+2011-12-05 17:48:41	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:41	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:41	sentences stored into database: 0
+2011-12-05 17:48:41	no sentences saved into database, then chunk...
+2011-12-05 17:48:41	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000118.txt
+2011-12-05 17:48:41	status: notfound, changed: 1
+2011-12-05 17:48:41	extracted 0 sentences
+2011-12-05 17:48:41	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:41	status: indexed, changed: 1
+2011-12-05 17:48:44	doc #280559, title:'Baratta: " Vince la trasparenza, perde chi non vuole regole "'
+2011-12-05 17:48:44	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:44	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:44	sentences stored into database: 0
+2011-12-05 17:48:44	no sentences saved into database, then chunk...
+2011-12-05 17:48:44	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000119.txt
+2011-12-05 17:48:44	status: notfound, changed: 1
+2011-12-05 17:48:44	extracted 0 sentences
+2011-12-05 17:48:45	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:45	status: indexed, changed: 1
+2011-12-05 17:48:47	doc #280560, title:'STRETTA CONTINUA'
+2011-12-05 17:48:47	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:47	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:48	sentences stored into database: 0
+2011-12-05 17:48:48	no sentences saved into database, then chunk...
+2011-12-05 17:48:48	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000120.txt
+2011-12-05 17:48:48	status: notfound, changed: 1
+2011-12-05 17:48:48	extracted 0 sentences
+2011-12-05 17:48:48	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:48	status: indexed, changed: 1
+2011-12-05 17:48:50	doc #280561, title:'stamattina si corre il Palio universitario'
+2011-12-05 17:48:50	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:50	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:51	sentences stored into database: 0
+2011-12-05 17:48:51	no sentences saved into database, then chunk...
+2011-12-05 17:48:51	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000121.txt
+2011-12-05 17:48:51	status: notfound, changed: 1
+2011-12-05 17:48:51	extracted 0 sentences
+2011-12-05 17:48:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:51	status: indexed, changed: 1
+2011-12-05 17:48:53	doc #280562, title:'Minacciata di morte la famiglia del sindaco'
+2011-12-05 17:48:53	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:53	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:54	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:54	sentences stored into database: 0
+2011-12-05 17:48:54	no sentences saved into database, then chunk...
+2011-12-05 17:48:54	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000122.txt
+2011-12-05 17:48:54	status: notfound, changed: 1
+2011-12-05 17:48:54	extracted 0 sentences
+2011-12-05 17:48:55	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:55	status: indexed, changed: 1
+2011-12-05 17:48:56	doc #280563, title:'La rabbia corre sui binari'
+2011-12-05 17:48:56	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:56	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:57	sentences stored into database: 0
+2011-12-05 17:48:57	no sentences saved into database, then chunk...
+2011-12-05 17:48:57	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000123.txt
+2011-12-05 17:48:57	status: notfound, changed: 1
+2011-12-05 17:48:57	extracted 0 sentences
+2011-12-05 17:48:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:57	status: indexed, changed: 1
+2011-12-05 17:48:59	doc #280564, title:'BASKET La Bosnia boicotta'
+2011-12-05 17:48:59	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:48:59	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:48:59	daily request with Alchemy: 0/ 29900
+2011-12-05 17:48:59	sentences stored into database: 0
+2011-12-05 17:48:59	no sentences saved into database, then chunk...
+2011-12-05 17:48:59	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000124.txt
+2011-12-05 17:48:59	status: notfound, changed: 1
+2011-12-05 17:48:59	extracted 0 sentences
+2011-12-05 17:49:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:00	status: indexed, changed: 1
+2011-12-05 17:49:02	doc #280565, title:'vertici del " Sacco " appello dei medici'
+2011-12-05 17:49:02	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:02	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:02	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:02	sentences stored into database: 0
+2011-12-05 17:49:02	no sentences saved into database, then chunk...
+2011-12-05 17:49:02	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000125.txt
+2011-12-05 17:49:02	status: notfound, changed: 1
+2011-12-05 17:49:02	extracted 0 sentences
+2011-12-05 17:49:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:03	status: indexed, changed: 1
+2011-12-05 17:49:05	doc #280566, title:'Giovanni Agnelli jr editorialista della " Nazione "'
+2011-12-05 17:49:05	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:05	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:05	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:05	sentences stored into database: 0
+2011-12-05 17:49:05	no sentences saved into database, then chunk...
+2011-12-05 17:49:05	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000126.txt
+2011-12-05 17:49:05	status: notfound, changed: 1
+2011-12-05 17:49:05	extracted 0 sentences
+2011-12-05 17:49:06	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:06	status: indexed, changed: 1
+2011-12-05 17:49:08	doc #280567, title:'domenica, disagi per chi vola'
+2011-12-05 17:49:08	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:08	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:08	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:08	sentences stored into database: 0
+2011-12-05 17:49:08	no sentences saved into database, then chunk...
+2011-12-05 17:49:08	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000127.txt
+2011-12-05 17:49:08	status: notfound, changed: 1
+2011-12-05 17:49:08	extracted 0 sentences
+2011-12-05 17:49:09	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:09	status: indexed, changed: 1
+2011-12-05 17:49:11	doc #280568, title:'" Citta' turistica? Decida il giudice "'
+2011-12-05 17:49:11	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:11	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:11	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:11	sentences stored into database: 0
+2011-12-05 17:49:11	no sentences saved into database, then chunk...
+2011-12-05 17:49:11	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000128.txt
+2011-12-05 17:49:11	status: notfound, changed: 1
+2011-12-05 17:49:11	extracted 0 sentences
+2011-12-05 17:49:12	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:12	status: indexed, changed: 1
+2011-12-05 17:49:14	doc #280569, title:'Monza, lifting con le ruspe'
+2011-12-05 17:49:14	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:14	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:14	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:14	sentences stored into database: 0
+2011-12-05 17:49:14	no sentences saved into database, then chunk...
+2011-12-05 17:49:14	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000129.txt
+2011-12-05 17:49:14	status: notfound, changed: 1
+2011-12-05 17:49:14	extracted 0 sentences
+2011-12-05 17:49:15	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:15	status: indexed, changed: 1
+2011-12-05 17:49:17	doc #280570, title:'ferita centralinista cieca dell' ATM'
+2011-12-05 17:49:17	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:17	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:17	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:17	sentences stored into database: 0
+2011-12-05 17:49:17	no sentences saved into database, then chunk...
+2011-12-05 17:49:17	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000130.txt
+2011-12-05 17:49:17	status: notfound, changed: 1
+2011-12-05 17:49:17	extracted 0 sentences
+2011-12-05 17:49:18	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:18	status: indexed, changed: 1
+2011-12-05 17:49:20	doc #280571, title:'Le candide chiome spiegano Internet'
+2011-12-05 17:49:20	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:20	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:21	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:21	sentences stored into database: 0
+2011-12-05 17:49:21	no sentences saved into database, then chunk...
+2011-12-05 17:49:21	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000131.txt
+2011-12-05 17:49:21	status: notfound, changed: 1
+2011-12-05 17:49:21	extracted 0 sentences
+2011-12-05 17:49:21	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:21	status: indexed, changed: 1
+2011-12-05 17:49:23	doc #280572, title:'La Valtellina del Duemila " Sara' una piccola Svizzera "'
+2011-12-05 17:49:23	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:23	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:24	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:24	sentences stored into database: 0
+2011-12-05 17:49:24	no sentences saved into database, then chunk...
+2011-12-05 17:49:24	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000132.txt
+2011-12-05 17:49:24	status: notfound, changed: 1
+2011-12-05 17:49:24	extracted 0 sentences
+2011-12-05 17:49:25	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:25	status: indexed, changed: 1
+2011-12-05 17:49:27	doc #280573, title:'Catelani " destituito " da presidente della squadra di calcio dei giudici'
+2011-12-05 17:49:27	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:27	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:28	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:28	sentences stored into database: 0
+2011-12-05 17:49:28	no sentences saved into database, then chunk...
+2011-12-05 17:49:28	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000133.txt
+2011-12-05 17:49:28	status: notfound, changed: 1
+2011-12-05 17:49:28	extracted 0 sentences
+2011-12-05 17:49:28	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:28	status: indexed, changed: 1
+2011-12-05 17:49:31	doc #280574, title:'Per abbattere la sopraelevata si spera in un' esercitazione del Genio'
+2011-12-05 17:49:31	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:31	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:31	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:31	sentences stored into database: 0
+2011-12-05 17:49:31	no sentences saved into database, then chunk...
+2011-12-05 17:49:31	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000134.txt
+2011-12-05 17:49:31	status: notfound, changed: 1
+2011-12-05 17:49:31	extracted 0 sentences
+2011-12-05 17:49:32	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:32	status: indexed, changed: 1
+2011-12-05 17:49:34	doc #280575, title:'Nove mesi in fuga con un bambino non loro'
+2011-12-05 17:49:34	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:34	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:35	sentences stored into database: 0
+2011-12-05 17:49:35	no sentences saved into database, then chunk...
+2011-12-05 17:49:35	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000135.txt
+2011-12-05 17:49:35	status: notfound, changed: 1
+2011-12-05 17:49:35	extracted 0 sentences
+2011-12-05 17:49:35	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:35	status: indexed, changed: 1
+2011-12-05 17:49:38	doc #280576, title:'Rifiuti, Sesto batte Milano'
+2011-12-05 17:49:38	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:38	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:39	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:39	sentences stored into database: 0
+2011-12-05 17:49:39	no sentences saved into database, then chunk...
+2011-12-05 17:49:39	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000136.txt
+2011-12-05 17:49:39	status: notfound, changed: 1
+2011-12-05 17:49:39	extracted 0 sentences
+2011-12-05 17:49:40	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:40	status: indexed, changed: 1
+2011-12-05 17:49:43	doc #280577, title:'Quanto pedalano quei cronisti del Giro'
+2011-12-05 17:49:43	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:43	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:43	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:43	sentences stored into database: 0
+2011-12-05 17:49:43	no sentences saved into database, then chunk...
+2011-12-05 17:49:43	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000137.txt
+2011-12-05 17:49:43	status: notfound, changed: 1
+2011-12-05 17:49:43	extracted 0 sentences
+2011-12-05 17:49:44	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:44	status: indexed, changed: 1
+2011-12-05 17:49:46	doc #280578, title:'Malpensa, Formentini replica a Fini'
+2011-12-05 17:49:46	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:46	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:47	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:47	sentences stored into database: 0
+2011-12-05 17:49:47	no sentences saved into database, then chunk...
+2011-12-05 17:49:47	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000138.txt
+2011-12-05 17:49:47	status: notfound, changed: 1
+2011-12-05 17:49:47	extracted 0 sentences
+2011-12-05 17:49:47	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:47	status: indexed, changed: 1
+2011-12-05 17:49:50	doc #280579, title:'Sieropositivo violenta i tre nipoti'
+2011-12-05 17:49:50	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:50	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:50	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:50	sentences stored into database: 0
+2011-12-05 17:49:50	no sentences saved into database, then chunk...
+2011-12-05 17:49:50	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000139.txt
+2011-12-05 17:49:50	status: notfound, changed: 1
+2011-12-05 17:49:50	extracted 0 sentences
+2011-12-05 17:49:51	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:51	status: indexed, changed: 1
+2011-12-05 17:49:52	doc #280580, title:'Alcatel, Tchuruk nuovo presidente'
+2011-12-05 17:49:52	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:52	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:53	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:53	sentences stored into database: 0
+2011-12-05 17:49:53	no sentences saved into database, then chunk...
+2011-12-05 17:49:53	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000140.txt
+2011-12-05 17:49:53	status: notfound, changed: 1
+2011-12-05 17:49:53	extracted 0 sentences
+2011-12-05 17:49:53	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:53	status: indexed, changed: 1
+2011-12-05 17:49:55	doc #280581, title:'Coop rosse: 24 sotto inchiesta. La Finanza alla Bnl di Roma'
+2011-12-05 17:49:55	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:55	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:49:56	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:56	sentences stored into database: 0
+2011-12-05 17:49:56	no sentences saved into database, then chunk...
+2011-12-05 17:49:56	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000141.txt
+2011-12-05 17:49:56	status: notfound, changed: 1
+2011-12-05 17:49:56	extracted 0 sentences
+2011-12-05 17:49:57	daily request with Alchemy: 0/ 29900
+2011-12-05 17:49:57	status: indexed, changed: 1
+2011-12-05 17:49:59	doc #280582, title:'Corriere lavoro: numero verde per matricole'
+2011-12-05 17:49:59	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:49:59	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:50:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:50:00	sentences stored into database: 0
+2011-12-05 17:50:00	no sentences saved into database, then chunk...
+2011-12-05 17:50:00	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000142.txt
+2011-12-05 17:50:00	status: notfound, changed: 1
+2011-12-05 17:50:00	extracted 0 sentences
+2011-12-05 17:50:00	daily request with Alchemy: 0/ 29900
+2011-12-05 17:50:00	status: indexed, changed: 1
+2011-12-05 17:50:02	received signal to stop routine. 
+2011-12-05 17:50:03	doc #280583, title:'AIDS : LILA chiede consiglio straordinario'
+2011-12-05 17:50:03	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:50:03	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:50:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:50:03	sentences stored into database: 0
+2011-12-05 17:50:03	no sentences saved into database, then chunk...
+2011-12-05 17:50:03	file not found: /var/www/anta.densitydesign.org/alpha/anta/application/../uploads/leones/1995-06-01-00000143.txt
+2011-12-05 17:50:03	status: notfound, changed: 1
+2011-12-05 17:50:03	extracted 0 sentences
+2011-12-05 17:50:03	daily request with Alchemy: 0/ 29900
+2011-12-05 17:50:03	status: indexed, changed: 1
+2011-12-05 17:50:05	status: routine for user 'leones' has been killed
+2011-12-05 17:50:05	saved pid: 10073, actual pid: 10073, elapsed: 571.57142710686
+2011-12-05 17:50:05	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:50:05	memory peak: 8912896
+errors: []
+elapsed: 571.56530094147
+--
+2011-12-05 17:50:07	process id closed, routine terminated
+2011-12-05 17:50:07	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:50:39	process id closed, routine terminated
+2011-12-05 17:50:39	starting or restarting analysis routine as requested
+--
+2011-12-05 17:50:39
+user: admin, pid: 11318, elapsed: 0.012560844421387
+2011-12-05 17:50:39	writing pid=11318 into 'distiller_leones.pid'
+2011-12-05 17:50:39	creating file... 'distiller_leones.pid'
+2011-12-05 17:50:39	success!... 'distiller_leones.pid' created
+2011-12-05 17:50:40	doc #280584, title:'Monte Spa, nessun salto in avanti'
+2011-12-05 17:50:40	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:50:40	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:50:40	daily request with Alchemy: 0/ 29900
+2011-12-05 17:50:40	sentences stored into database: 0
+2011-12-05 17:50:40	no sentences saved into database, then chunk...
+2011-12-05 17:50:40	! exception:uploads is not writable
+2011-12-05 17:50:40	saved pid: 11318, actual pid: 11318, elapsed: 0.91315793991089
+2011-12-05 17:50:40	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:50:40	memory peak: 8126464
+errors: []
+elapsed: 0.91221380233765
+--
+2011-12-05 17:50:44	process id closed, routine terminated
+2011-12-05 17:50:44	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:50:49	process id closed, routine terminated
+2011-12-05 17:50:49	starting or restarting analysis routine as requested
+--
+2011-12-05 17:50:49
+user: admin, pid: 11340, elapsed: 0.01947808265686
+2011-12-05 17:50:49	writing pid=11340 into 'distiller_leones.pid'
+2011-12-05 17:50:49	creating file... 'distiller_leones.pid'
+2011-12-05 17:50:49	success!... 'distiller_leones.pid' created
+2011-12-05 17:50:49	process id closed, routine terminated
+2011-12-05 17:50:49	error: 'distiller_leones.pid' not found. Unable to search for a process-id
+2011-12-05 17:50:49	doc #280585, title:'Radiocor calcola i tassi Itabor'
+2011-12-05 17:50:49	using thread #91: Anta_Distiller_Rws_Alchemy
+2011-12-05 17:50:49	curl Alchemy: http://access.alchemyapi.com/calls/text/TextGetRankedNamedEntities, limit:29900
+2011-12-05 17:50:50	daily request with Alchemy: 0/ 29900
+2011-12-05 17:50:50	sentences stored into database: 0
+2011-12-05 17:50:50	no sentences saved into database, then chunk...
+2011-12-05 17:50:50	! exception:uploads is not writable
+2011-12-05 17:50:50	saved pid: 11340, actual pid: 11340, elapsed: 1.0819661617279
+2011-12-05 17:50:50	remove pid: file 'distiller_leones.pid' removed correctly
+2011-12-05 17:50:50	memory peak: 8126464
+errors: []
+elapsed: 1.0773510932922
+--
